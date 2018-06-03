@@ -1,0 +1,997 @@
+10 year total return;Excess return (over SIXPRX);Average (daily) excess return;Volatility;Information ratio;Parameters and weights
+438.43%;298.86%;59.51%;1.407;0.423;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+417.75%;278.17%;66.45%;1.286;0.517;{'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+414.71%;275.14%;55.93%;1.213;0.461;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.4}
+413.31%;273.74%;61.02%;1.249;0.488;{'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.3}
+399.86%;260.28%;48.06%;1.178;0.408;{'roic_wacc': 0.5, 'revenue_growth': 0.5}
+398.62%;259.04%;42.30%;1.261;0.335;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+395.73%;256.15%;48.02%;1.288;0.373;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.4}
+390.49%;250.91%;51.09%;1.328;0.385;{'roe': 0.3, 'fcfy': 0.4, 'revenue_growth': 0.3}
+390.13%;250.55%;52.49%;1.271;0.413;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+388.05%;248.47%;54.33%;1.17;0.464;{'roic_wacc': 0.6, 'revenue_growth': 0.4}
+385.58%;246.01%;46.92%;1.199;0.391;{'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+383.33%;243.75%;44.40%;1.194;0.372;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+377.99%;238.42%;54.52%;1.196;0.456;{'fcfy': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+377.69%;238.12%;47.64%;1.145;0.416;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.4}
+377.36%;237.78%;47.63%;1.147;0.415;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.4}
+375.93%;236.35%;55.89%;1.176;0.475;{'fcfy': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+372.31%;232.74%;31.21%;1.214;0.257;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+371.86%;232.28%;65.38%;1.199;0.545;{'fcfy': 0.5, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+371.79%;232.21%;42.22%;1.202;0.351;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+368.38%;228.81%;61.24%;1.125;0.544;{'roic_wacc': 0.8, 'revenue_growth': 0.2}
+367.61%;228.04%;37.52%;1.214;0.309;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.4}
+366.55%;226.98%;65.89%;1.203;0.548;{'fcfy': 0.6, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+365.52%;225.95%;42.08%;1.187;0.354;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+365.52%;225.95%;64.20%;1.146;0.56;{'fcfy': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.2}
+363.53%;223.95%;29.33%;1.158;0.253;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+362.63%;223.06%;38.96%;1.135;0.343;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+358.91%;219.33%;33.65%;1.093;0.308;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.4}
+358.04%;218.47%;57.64%;1.191;0.484;{'fcfy': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+357.52%;217.94%;35.18%;1.179;0.298;{'roe': 0.3, 'revenue_growth': 0.7}
+354.52%;214.95%;41.00%;1.173;0.35;{'fcfy': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+354.19%;214.61%;44.57%;1.071;0.416;{'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.3}
+351.97%;212.39%;60.32%;1.136;0.531;{'fcfy': 0.3, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+349.14%;209.56%;68.03%;1.136;0.599;{'fcfy': 0.3, 'roic_wacc': 0.7}
+348.70%;209.13%;38.70%;1.192;0.325;{'roe': 0.2, 'fcfy': 0.5, 'revenue_growth': 0.3}
+347.08%;207.51%;59.95%;1.122;0.534;{'fcfy': 0.2, 'roic_wacc': 0.7, 'revenue_growth': 0.1}
+345.59%;206.01%;27.07%;1.136;0.238;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+344.36%;204.78%;62.36%;1.111;0.561;{'fcfy': 0.2, 'roic_wacc': 0.8}
+343.37%;203.80%;53.57%;1.199;0.447;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+341.70%;202.12%;43.19%;1.081;0.399;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.3}
+340.61%;201.04%;38.70%;1.077;0.359;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+339.52%;199.94%;37.42%;1.137;0.329;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+338.98%;199.40%;58.49%;1.065;0.549;{'roic_wacc': 0.9, 'revenue_growth': 0.1}
+334.21%;194.63%;54.38%;1.068;0.509;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.1}
+333.69%;194.12%;42.83%;1.029;0.416;{'roic_wacc': 0.7, 'revenue_growth': 0.3}
+333.52%;193.94%;49.89%;1.076;0.464;{'fcfy': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.2}
+331.66%;192.09%;54.28%;1.085;0.5;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+331.56%;191.98%;35.60%;1.1;0.324;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+331.37%;191.79%;31.90%;1.113;0.287;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+331.35%;191.78%;21.59%;1.012;0.213;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.5}
+330.69%;191.12%;53.52%;1.07;0.5;{'roe': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+330.67%;191.09%;37.19%;1.089;0.342;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+330.33%;190.76%;50.41%;1.087;0.464;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+330.13%;190.56%;48.81%;1.094;0.446;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+330.12%;190.54%;60.50%;1.041;0.581;{'fcfy': 0.1, 'roic_wacc': 0.9}
+329.73%;190.16%;66.22%;1.155;0.574;{'fcfy': 0.6, 'roic_wacc': 0.4}
+329.64%;190.07%;60.82%;1.107;0.549;{'fcfy': 0.4, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+329.43%;189.86%;42.45%;1.14;0.372;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.4}
+328.76%;189.18%;53.69%;1.054;0.509;{'roic_wacc': 0.7, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+328.65%;189.07%;19.66%;1.037;0.19;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.7}
+325.25%;185.68%;50.47%;1.036;0.487;{'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+324.43%;184.85%;32.65%;1.005;0.325;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+324.09%;184.52%;18.91%;1;0.189;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.5}
+323.98%;184.41%;10.86%;1.097;0.099;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+323.58%;184.01%;52.61%;1.02;0.516;{'fcfy': 0.1, 'roic_wacc': 0.8, 'revenue_growth': 0.1}
+322.70%;183.13%;45.45%;1.165;0.39;{'roe': 0.4, 'fcfy': 0.3, 'revenue_growth': 0.3}
+322.14%;182.56%;71.58%;1.18;0.607;{'fcfy': 0.7, 'roic_wacc': 0.3}
+321.88%;182.31%;24.31%;1.032;0.236;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+319.37%;179.80%;53.49%;1.019;0.525;{'roe': 0.1, 'roic_wacc': 0.8, 'revenue_growth': 0.1}
+319.16%;179.58%;52.36%;1.041;0.503;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.8}
+317.75%;178.17%;59.14%;1.081;0.547;{'fcfy': 0.5, 'roic_wacc': 0.5}
+317.74%;178.16%;31.31%;1.045;0.3;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+315.91%;176.33%;44.05%;1.174;0.375;{'roe': 0.2, 'fcfy': 0.6, 'revenue_growth': 0.2}
+315.47%;175.90%;22.54%;0.999;0.226;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+314.28%;174.70%;4.09%;1.004;0.041;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.7}
+312.76%;173.18%;27.88%;0.947;0.294;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+311.88%;172.31%;33.26%;1.046;0.318;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.5}
+311.54%;171.96%;10.90%;1.018;0.107;{'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+311.15%;171.58%;29.10%;0.984;0.296;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+310.61%;171.03%;51.13%;1.004;0.509;{'fcfy': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+309.13%;169.56%;36.04%;1.023;0.352;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+308.94%;169.37%;40.22%;1.033;0.389;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+308.91%;169.34%;32.44%;0.978;0.332;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+307.63%;168.06%;36.00%;0.982;0.367;{'roe': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.3}
+307.34%;167.77%;28.31%;0.978;0.289;{'roic_wacc': 0.4, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+306.77%;167.20%;48.77%;1.033;0.472;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+306.59%;167.02%;9.97%;0.992;0.1;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+306.57%;167.00%;45.82%;0.962;0.476;{'roe': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+306.42%;166.84%;20.94%;1.058;0.198;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.5}
+306.16%;166.59%;38.93%;1.099;0.354;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+306.15%;166.57%;48.90%;0.983;0.497;{'roe': 0.1, 'roic_wacc': 0.9}
+305.60%;166.02%;18.41%;1.005;0.183;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+305.19%;165.61%;47.54%;1.007;0.472;{'roe': 0.2, 'roic_wacc': 0.8}
+305.01%;165.43%;35.18%;1.108;0.318;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+304.92%;165.35%;26.26%;1.003;0.262;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+304.79%;165.22%;13.95%;1.019;0.137;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+304.66%;165.08%;48.33%;0.979;0.494;{'roic_wacc': 0.8, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+303.89%;164.31%;33.05%;1.04;0.318;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+303.41%;163.84%;15.80%;0.944;0.167;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+303.04%;163.47%;24.69%;0.986;0.25;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+302.77%;163.20%;19.79%;0.969;0.204;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+302.49%;162.91%;44.85%;1.088;0.412;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+302.47%;162.90%;38.80%;0.954;0.407;{'roe': 0.2, 'roic_wacc': 0.7, 'revenue_growth': 0.1}
+302.18%;162.60%;5.39%;0.986;0.055;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.6}
+302.15%;162.58%;47.57%;1.009;0.471;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.6}
+301.98%;162.41%;49.11%;1.011;0.486;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+301.74%;162.17%;26.61%;1.068;0.249;{'fcfy': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+301.63%;162.06%;24.89%;0.974;0.255;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+301.19%;161.62%;10.31%;1.024;0.101;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+301.13%;161.56%;30.27%;1.041;0.291;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+300.15%;160.58%;47.20%;1.121;0.421;{'roe': 0.1, 'fcfy': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+299.85%;160.28%;11.22%;0.998;0.113;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+299.31%;159.74%;28.30%;1.006;0.281;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+298.91%;159.34%;53.68%;1.142;0.47;{'roe': 0.2, 'fcfy': 0.7, 'revenue_growth': 0.1}
+298.85%;159.28%;49.59%;0.966;0.513;{'roe': 0.3, 'dividend_yield': 0.7}
+298.69%;159.11%;53.42%;1.022;0.523;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+298.06%;158.48%;25.83%;1.001;0.258;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+297.84%;158.27%;14.21%;0.993;0.143;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+297.31%;157.74%;14.69%;0.937;0.157;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+297.28%;157.70%;36.70%;0.977;0.376;{'roe': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.2}
+297.17%;157.60%;44.16%;0.981;0.45;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.7}
+296.09%;156.52%;32.40%;1.031;0.314;{'roe': 0.3, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+295.73%;156.16%;29.70%;0.989;0.3;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+295.32%;155.75%;24.73%;0.984;0.251;{'roe': 0.4, 'revenue_growth': 0.6}
+294.74%;155.17%;7.77%;0.994;0.078;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+294.66%;155.09%;7.35%;0.929;0.079;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.5}
+294.60%;155.03%;54.20%;0.946;0.573;{'fcfy': 0.1, 'roic_wacc': 0.8, 'dividend_yield': 0.1}
+294.28%;154.70%;32.67%;0.944;0.346;{'roic_wacc': 0.6, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+294.17%;154.60%;34.62%;0.961;0.36;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.2}
+294.08%;154.50%;23.38%;0.971;0.241;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+293.91%;154.33%;58.65%;0.993;0.591;{'roe': 0.1, 'fcfy': 0.7, 'dividend_yield': 0.2}
+293.05%;153.48%;26.47%;0.927;0.286;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+292.41%;152.83%;9.22%;1.027;0.09;{'fcfy': 0.5, 'revenue_growth': 0.5}
+291.55%;151.97%;44.97%;1.015;0.443;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+291.38%;151.81%;8.66%;0.917;0.094;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.5}
+291.12%;151.54%;36.52%;1.023;0.357;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+291.09%;151.51%;33.29%;1.017;0.327;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+290.75%;151.18%;4.71%;0.985;0.048;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+290.58%;151.00%;44.82%;0.944;0.475;{'fcfy': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+290.48%;150.90%;47.51%;0.944;0.504;{'fcfy': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+290.16%;150.59%;30.82%;0.927;0.333;{'roic_wacc': 0.5, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+290.03%;150.45%;41.35%;1.053;0.393;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+289.75%;150.18%;49.24%;0.92;0.535;{'roic_wacc': 0.9, 'dividend_yield': 0.1}
+289.45%;149.87%;42.09%;0.957;0.44;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.7}
+289.40%;149.83%;1.35%;0.925;0.015;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.6}
+288.93%;149.36%;35.42%;0.93;0.381;{'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+288.84%;149.26%;31.70%;1;0.317;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+288.53%;148.96%;-3.14%;0.964;-0.033;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.6}
+288.41%;148.83%;53.08%;0.926;0.573;{'fcfy': 0.2, 'roic_wacc': 0.7, 'dividend_yield': 0.1}
+288.26%;148.69%;44.16%;0.947;0.466;{'roe': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+288.24%;148.67%;11.74%;0.923;0.127;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+287.67%;148.09%;46.18%;0.968;0.477;{'fcfy': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+287.20%;147.62%;27.39%;0.975;0.281;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+287.17%;147.59%;27.91%;0.973;0.287;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+286.36%;146.79%;28.98%;0.959;0.302;{'roe': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+286.34%;146.77%;46.98%;0.969;0.485;{'fcfy': 0.4, 'roic_wacc': 0.6}
+286.06%;146.49%;32.86%;0.99;0.332;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+285.14%;145.57%;37.86%;0.981;0.386;{'roe': 0.3, 'roic_wacc': 0.7}
+284.77%;145.20%;27.25%;0.96;0.284;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+284.66%;145.09%;9.16%;1.011;0.091;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.6}
+284.45%;144.88%;11.80%;0.907;0.13;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+284.37%;144.79%;32.85%;1.006;0.327;{'roe': 0.5, 'revenue_growth': 0.5}
+284.27%;144.70%;21.36%;0.985;0.217;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+284.05%;144.47%;34.17%;0.976;0.35;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+283.60%;144.03%;9.41%;0.904;0.104;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+283.17%;143.59%;24.76%;1.012;0.245;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+282.96%;143.39%;26.46%;0.946;0.28;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+282.28%;142.70%;41.06%;1.025;0.4;{'roe': 0.5, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+282.22%;142.65%;4.72%;0.928;0.051;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+281.75%;142.18%;21.11%;0.924;0.228;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+281.64%;142.07%;33.79%;0.994;0.34;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+281.48%;141.91%;35.36%;0.946;0.374;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+281.20%;141.63%;17.10%;0.961;0.178;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.6}
+280.62%;141.05%;37.67%;0.976;0.386;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+280.62%;141.04%;10.21%;0.905;0.113;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+280.38%;140.81%;-1.49%;0.915;-0.016;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+280.06%;140.48%;51.95%;0.953;0.545;{'fcfy': 0.3, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+279.55%;139.98%;28.30%;0.937;0.302;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+278.83%;139.25%;-0.67%;0.94;-0.007;{'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+278.48%;138.91%;33.75%;0.962;0.351;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+277.78%;138.20%;-0.38%;0.876;-0.004;{'roic_wacc': 0.4, 'revenue_growth': 0.6}
+277.69%;138.12%;38.43%;0.948;0.406;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.5}
+277.59%;138.02%;33.86%;0.943;0.359;{'roe': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+277.48%;137.91%;40.37%;1.02;0.396;{'fcfy': 0.7, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+277.39%;137.81%;29.53%;0.927;0.319;{'roe': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.2}
+277.38%;137.81%;25.67%;0.919;0.279;{'roe': 0.3, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+276.96%;137.38%;29.78%;0.946;0.315;{'roe': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+276.95%;137.37%;26.94%;0.956;0.282;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+276.56%;136.99%;6.66%;0.973;0.068;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+276.23%;136.65%;19.31%;0.988;0.195;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+276.22%;136.65%;4.68%;0.928;0.05;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+275.98%;136.40%;-5.39%;0.888;-0.061;{'roic_wacc': 0.3, 'revenue_growth': 0.7}
+275.78%;136.21%;41.32%;1.082;0.382;{'roe': 0.4, 'fcfy': 0.4, 'revenue_growth': 0.2}
+274.60%;135.03%;25.17%;0.895;0.281;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+274.58%;135.00%;50.72%;0.939;0.54;{'fcfy': 0.4, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+274.22%;134.64%;40.85%;0.974;0.419;{'roe': 0.1, 'fcfy': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+273.98%;134.41%;27.01%;0.935;0.289;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+273.56%;133.99%;43.33%;0.996;0.435;{'fcfy': 0.8, 'roic_wacc': 0.2}
+273.55%;133.97%;39.49%;0.968;0.408;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.5}
+273.48%;133.90%;19.51%;0.863;0.226;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+273.28%;133.70%;33.48%;0.947;0.353;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+273.26%;133.69%;53.71%;0.957;0.561;{'roe': 0.2, 'fcfy': 0.5, 'dividend_yield': 0.3}
+273.21%;133.63%;44.63%;0.994;0.449;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.4}
+273.16%;133.58%;31.89%;0.928;0.344;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+272.88%;133.31%;30.44%;0.899;0.338;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+272.73%;133.16%;39.75%;1.089;0.365;{'roe': 0.3, 'fcfy': 0.5, 'revenue_growth': 0.2}
+272.49%;132.92%;52.41%;0.969;0.541;{'fcfy': 0.5, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+272.37%;132.80%;41.98%;0.89;0.472;{'roe': 0.1, 'roic_wacc': 0.8, 'dividend_yield': 0.1}
+272.33%;132.76%;20.54%;0.921;0.223;{'roe': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+272.16%;132.59%;22.45%;0.899;0.25;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+271.37%;131.80%;36.03%;1.056;0.341;{'roe': 0.2, 'fcfy': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+271.25%;131.68%;49.02%;0.919;0.533;{'roe': 0.4, 'dividend_yield': 0.6}
+270.67%;131.09%;30.89%;0.925;0.334;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+270.63%;131.05%;-1.51%;0.873;-0.017;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.6}
+270.59%;131.02%;44.61%;0.921;0.484;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+270.25%;130.68%;33.02%;0.921;0.359;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.6}
+270.21%;130.64%;50.77%;0.974;0.521;{'fcfy': 0.6, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+270.15%;130.57%;38.85%;0.993;0.391;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+270.11%;130.54%;33.97%;0.89;0.382;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+270.02%;130.44%;27.03%;0.897;0.301;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+269.97%;130.39%;38.30%;0.858;0.446;{'roic_wacc': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+269.68%;130.10%;1.23%;0.979;0.013;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.4}
+268.86%;129.28%;22.84%;0.882;0.259;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+268.69%;129.11%;27.89%;0.94;0.297;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+268.66%;129.08%;3.39%;0.928;0.037;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.7}
+268.49%;128.91%;25.76%;0.955;0.27;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+268.38%;128.81%;22.05%;0.892;0.247;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+268.12%;128.54%;28.56%;0.907;0.315;{'roe': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+268.10%;128.53%;24.68%;0.927;0.266;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+268.08%;128.50%;4.93%;0.945;0.052;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+267.89%;128.32%;22.90%;0.922;0.248;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+267.70%;128.12%;-7.10%;0.886;-0.08;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.7}
+267.57%;127.99%;-0.48%;0.95;-0.005;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+267.46%;127.88%;27.56%;0.902;0.306;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+267.45%;127.88%;27.04%;0.947;0.285;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+267.39%;127.81%;-2.67%;0.887;-0.03;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+267.25%;127.67%;35.99%;0.865;0.416;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+267.16%;127.58%;2.09%;0.852;0.025;{'roic_wacc': 0.3, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+266.94%;127.37%;37.12%;0.997;0.372;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+266.66%;127.08%;24.14%;0.874;0.276;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+266.60%;127.03%;19.12%;0.926;0.206;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.5}
+266.14%;126.56%;4.11%;0.915;0.045;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+265.53%;125.95%;23.03%;0.873;0.264;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+265.20%;125.62%;21.25%;0.927;0.229;{'roe': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+264.96%;125.38%;27.75%;0.925;0.3;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+264.55%;124.98%;24.79%;0.859;0.289;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+264.43%;124.85%;22.23%;0.913;0.243;{'roe': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+264.06%;124.49%;33.97%;0.956;0.355;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+263.95%;124.37%;17.81%;0.868;0.205;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.4}
+263.81%;124.24%;40.50%;0.971;0.417;{'fcfy': 0.7, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+263.53%;123.96%;26.44%;0.924;0.286;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+263.06%;123.49%;9.23%;0.847;0.109;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+262.64%;123.07%;36.83%;1.011;0.364;{'fcfy': 0.8, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+262.42%;122.84%;46.56%;0.889;0.524;{'roe': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+262.39%;122.81%;3.68%;0.929;0.04;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+262.21%;122.63%;22.03%;0.911;0.242;{'roe': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+261.88%;122.31%;21.21%;0.88;0.241;{'roe': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.3}
+261.79%;122.21%;7.33%;0.915;0.08;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.7}
+261.67%;122.10%;20.47%;0.87;0.235;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+261.48%;121.91%;38.26%;0.854;0.448;{'roe': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.7}
+261.31%;121.73%;27.38%;0.899;0.305;{'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+261.29%;121.72%;21.84%;0.882;0.248;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+260.98%;121.40%;40.35%;0.904;0.446;{'fcfy': 0.8, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+260.87%;121.29%;41.66%;0.883;0.472;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+260.70%;121.13%;28.46%;0.926;0.307;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+260.57%;120.99%;47.20%;0.876;0.539;{'roe': 0.1, 'fcfy': 0.6, 'dividend_yield': 0.3}
+260.27%;120.69%;13.63%;0.884;0.154;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+260.16%;120.58%;24.44%;0.933;0.262;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+260.16%;120.58%;36.69%;0.847;0.433;{'roe': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+259.86%;120.28%;36.25%;0.907;0.4;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+259.82%;120.25%;18.77%;0.868;0.216;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+259.76%;120.19%;10.67%;0.899;0.119;{'roe': 0.2, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+259.72%;120.15%;-1.22%;0.902;-0.013;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+259.09%;119.52%;35.94%;0.928;0.387;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+258.96%;119.38%;25.14%;0.853;0.295;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+258.29%;118.72%;27.45%;0.938;0.293;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+257.92%;118.34%;45.21%;0.913;0.495;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+257.91%;118.34%;29.23%;0.878;0.333;{'roe': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+257.00%;117.42%;21.53%;0.912;0.236;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+256.97%;117.40%;21.77%;0.897;0.243;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+256.94%;117.37%;25.67%;0.88;0.292;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+256.92%;117.34%;22.11%;0.847;0.261;{'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+256.87%;117.29%;21.53%;0.877;0.245;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+256.73%;117.16%;37.17%;0.905;0.411;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+256.63%;117.05%;-0.33%;0.849;-0.004;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+255.97%;116.39%;10.60%;0.8;0.132;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+255.84%;116.27%;31.61%;0.923;0.342;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+255.74%;116.17%;-4.67%;0.835;-0.056;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.8}
+255.53%;115.96%;47.02%;0.933;0.504;{'fcfy': 0.9, 'roic_wacc': 0.1}
+255.46%;115.88%;40.13%;0.856;0.469;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.7, 'dividend_yield': 0.1}
+255.45%;115.88%;38.71%;0.873;0.443;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+255.34%;115.77%;20.32%;0.876;0.232;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+255.34%;115.76%;28.00%;0.881;0.318;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+255.31%;115.74%;24.68%;0.906;0.272;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+255.28%;115.70%;23.49%;0.922;0.255;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+255.07%;115.49%;2.15%;0.941;0.023;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.5}
+254.50%;114.92%;18.39%;0.884;0.208;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+254.47%;114.89%;0.80%;0.89;0.009;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.8}
+254.37%;114.79%;45.24%;0.887;0.51;{'roe': 0.3, 'fcfy': 0.1, 'dividend_yield': 0.6}
+254.24%;114.66%;21.66%;0.904;0.24;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+253.91%;114.34%;36.13%;0.878;0.411;{'roe': 0.3, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+253.70%;114.12%;33.80%;0.856;0.395;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+253.55%;113.98%;40.04%;0.878;0.456;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+253.39%;113.82%;14.86%;0.963;0.154;{'roe': 0.1, 'fcfy': 0.7, 'revenue_growth': 0.2}
+253.39%;113.82%;-6.48%;0.84;-0.077;{'roic_wacc': 0.2, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+253.31%;113.73%;-2.83%;0.875;-0.032;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.7}
+253.28%;113.70%;29.07%;0.905;0.321;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+252.93%;113.35%;23.83%;0.887;0.269;{'roe': 0.7, 'fcfy': 0.1, 'revenue_growth': 0.2}
+252.81%;113.23%;41.43%;0.848;0.489;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+252.58%;113.01%;29.20%;0.88;0.332;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+252.51%;112.93%;32.80%;0.843;0.389;{'roe': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+252.34%;112.76%;0.88%;0.841;0.01;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+252.30%;112.72%;37.81%;0.986;0.383;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.3}
+252.00%;112.43%;-0.76%;0.888;-0.008;{'fcfy': 0.4, 'revenue_growth': 0.6}
+251.96%;112.39%;24.50%;0.869;0.282;{'roe': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+251.74%;112.16%;25.28%;0.875;0.289;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+251.57%;112.00%;25.26%;0.868;0.291;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+251.34%;111.77%;-6.24%;0.835;-0.075;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+251.32%;111.74%;35.92%;0.846;0.424;{'roe': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+251.23%;111.66%;-1.49%;0.883;-0.017;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.6}
+251.23%;111.65%;32.55%;0.874;0.373;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+251.10%;111.53%;18.92%;0.854;0.222;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+250.96%;111.38%;27.76%;0.825;0.336;{'roic_wacc': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+250.74%;111.16%;42.79%;0.936;0.457;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+250.67%;111.10%;21.07%;0.866;0.243;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+250.65%;111.07%;11.02%;0.797;0.138;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+250.49%;110.91%;24.60%;0.895;0.275;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+250.22%;110.64%;18.37%;0.867;0.212;{'roe': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+250.10%;110.53%;47.88%;0.874;0.548;{'roe': 0.2, 'fcfy': 0.4, 'dividend_yield': 0.4}
+249.80%;110.22%;13.11%;0.849;0.154;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+249.52%;109.95%;20.67%;0.832;0.248;{'roic_wacc': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+249.48%;109.90%;24.32%;0.897;0.271;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.4}
+249.19%;109.62%;34.19%;0.851;0.402;{'fcfy': 0.8, 'dividend_yield': 0.2}
+248.95%;109.38%;27.01%;0.841;0.321;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+248.88%;109.30%;32.45%;0.934;0.348;{'roe': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+248.83%;109.26%;14.77%;0.86;0.172;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+248.68%;109.10%;41.05%;0.902;0.455;{'fcfy': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+248.64%;109.07%;18.90%;0.845;0.224;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+248.50%;108.93%;34.22%;0.846;0.404;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+248.43%;108.86%;34.46%;0.914;0.377;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+248.39%;108.82%;21.65%;0.822;0.263;{'roic_wacc': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+248.28%;108.70%;33.25%;0.855;0.389;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+248.18%;108.61%;25.97%;0.95;0.273;{'roe': 0.1, 'fcfy': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+248.16%;108.59%;21.45%;0.856;0.25;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+248.09%;108.51%;20.71%;0.824;0.251;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+247.61%;108.03%;29.01%;0.895;0.324;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.6}
+247.49%;107.91%;22.29%;0.875;0.255;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+247.44%;107.87%;16.77%;0.826;0.203;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+247.43%;107.86%;21.10%;0.878;0.24;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+247.20%;107.63%;-5.20%;0.801;-0.065;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.6}
+247.03%;107.45%;30.77%;0.87;0.354;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+247.00%;107.43%;29.62%;0.895;0.331;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+246.89%;107.32%;-3.99%;0.848;-0.047;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.8}
+246.76%;107.18%;21.00%;0.84;0.25;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+246.67%;107.10%;40.45%;0.813;0.497;{'roic_wacc': 0.8, 'dividend_yield': 0.2}
+246.20%;106.63%;28.12%;0.881;0.319;{'roe': 0.4, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+246.00%;106.42%;36.24%;0.818;0.443;{'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+245.74%;106.17%;27.51%;0.871;0.316;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+245.68%;106.11%;36.26%;0.849;0.427;{'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+245.62%;106.04%;-6.00%;0.856;-0.07;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+245.37%;105.79%;-5.40%;0.904;-0.06;{'fcfy': 0.6, 'revenue_growth': 0.4}
+245.26%;105.69%;36.86%;0.813;0.453;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+245.08%;105.50%;35.93%;0.993;0.362;{'roe': 0.3, 'fcfy': 0.6, 'revenue_growth': 0.1}
+244.69%;105.11%;23.71%;0.9;0.263;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.4}
+244.62%;105.04%;40.10%;0.833;0.481;{'fcfy': 0.1, 'roic_wacc': 0.7, 'dividend_yield': 0.2}
+244.07%;104.50%;19.47%;0.85;0.229;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+243.95%;104.37%;36.07%;0.854;0.423;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+243.89%;104.32%;32.02%;0.793;0.404;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+243.71%;104.14%;30.22%;0.847;0.357;{'fcfy': 0.7, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+243.29%;103.72%;20.53%;0.834;0.246;{'roe': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+243.19%;103.61%;35.16%;0.962;0.365;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+243.14%;103.57%;24.50%;0.866;0.283;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+243.06%;103.49%;16.57%;0.834;0.199;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+242.83%;103.26%;24.13%;0.88;0.274;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+242.66%;103.09%;34.97%;0.815;0.429;{'roe': 0.1, 'roic_wacc': 0.7, 'dividend_yield': 0.2}
+242.58%;103.00%;34.18%;0.889;0.385;{'fcfy': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+242.55%;102.98%;28.64%;0.89;0.322;{'roe': 0.8, 'fcfy': 0.1, 'revenue_growth': 0.1}
+242.41%;102.84%;29.90%;0.844;0.354;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+242.09%;102.51%;6.06%;0.861;0.07;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+241.92%;102.35%;27.36%;0.883;0.31;{'roe': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.4}
+241.62%;102.04%;33.34%;0.822;0.406;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+241.09%;101.51%;24.10%;0.874;0.276;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+241.02%;101.45%;21.80%;0.895;0.244;{'roe': 0.6, 'fcfy': 0.2, 'revenue_growth': 0.2}
+240.86%;101.29%;40.70%;0.828;0.491;{'roe': 0.2, 'fcfy': 0.3, 'dividend_yield': 0.5}
+240.84%;101.26%;39.70%;0.843;0.471;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+240.82%;101.25%;34.45%;0.86;0.401;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+240.60%;101.02%;33.41%;0.816;0.409;{'roe': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+240.12%;100.54%;33.66%;0.798;0.422;{'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+239.50%;99.93%;38.98%;0.834;0.467;{'roe': 0.4, 'fcfy': 0.1, 'dividend_yield': 0.5}
+239.47%;99.89%;23.19%;0.885;0.262;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+238.88%;99.31%;28.28%;0.837;0.338;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+238.82%;99.25%;32.08%;0.821;0.391;{'roe': 0.2, 'roic_wacc': 0.7, 'dividend_yield': 0.1}
+238.78%;99.21%;22.60%;0.887;0.255;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+238.65%;99.08%;33.66%;0.801;0.42;{'roe': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+238.43%;98.86%;23.30%;0.842;0.277;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+238.01%;98.43%;-12.09%;0.832;-0.145;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+237.64%;98.07%;-0.19%;0.833;-0.002;{'roe': 0.2, 'revenue_growth': 0.8}
+237.51%;97.94%;33.73%;0.816;0.413;{'roe': 0.5, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+237.50%;97.92%;18.25%;0.796;0.229;{'roe': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+236.97%;97.39%;32.66%;0.841;0.388;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+236.91%;97.34%;-2.90%;0.858;-0.034;{'fcfy': 0.3, 'revenue_growth': 0.7}
+236.81%;97.23%;25.43%;0.891;0.285;{'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+236.62%;97.05%;24.55%;0.855;0.287;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+236.57%;96.99%;28.48%;0.785;0.363;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+236.48%;96.91%;-6.41%;0.883;-0.073;{'fcfy': 0.4, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+236.25%;96.67%;23.78%;0.813;0.293;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+236.19%;96.61%;31.52%;0.834;0.378;{'roe': 0.4, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+236.15%;96.58%;20.63%;0.823;0.251;{'roe': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+235.82%;96.25%;32.00%;0.857;0.374;{'roe': 0.4, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+235.59%;96.02%;25.25%;0.901;0.28;{'roe': 0.5, 'fcfy': 0.3, 'revenue_growth': 0.2}
+235.55%;95.98%;17.58%;0.815;0.216;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+235.48%;95.90%;21.76%;0.853;0.255;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+235.38%;95.80%;16.83%;0.821;0.205;{'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+234.96%;95.38%;22.48%;0.838;0.268;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+234.90%;95.32%;33.15%;0.845;0.392;{'fcfy': 0.6, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+234.87%;95.29%;19.49%;0.844;0.231;{'roe': 0.4, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+234.70%;95.12%;-10.05%;0.849;-0.118;{'fcfy': 0.3, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+234.56%;94.98%;22.86%;0.799;0.286;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+234.45%;94.88%;21.26%;0.875;0.243;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+234.41%;94.84%;29.11%;0.82;0.355;{'fcfy': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+234.21%;94.64%;27.60%;0.77;0.358;{'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+234.16%;94.59%;14.95%;0.804;0.186;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+234.01%;94.44%;18.32%;0.849;0.216;{'roe': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+233.97%;94.39%;32.51%;0.822;0.396;{'roe': 0.5, 'dividend_yield': 0.5}
+233.89%;94.32%;19.10%;0.877;0.218;{'roe': 0.6, 'revenue_growth': 0.4}
+233.77%;94.19%;24.94%;0.795;0.314;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+233.71%;94.13%;32.82%;0.79;0.416;{'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+233.61%;94.03%;34.88%;0.87;0.401;{'roe': 0.2, 'fcfy': 0.6, 'dividend_yield': 0.2}
+233.31%;93.73%;23.79%;0.865;0.275;{'roe': 0.7, 'fcfy': 0.2, 'revenue_growth': 0.1}
+233.15%;93.57%;20.45%;0.86;0.238;{'roe': 0.5, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+233.12%;93.55%;32.82%;0.881;0.373;{'roe': 0.3, 'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+232.99%;93.41%;37.72%;0.766;0.492;{'roe': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.6}
+232.76%;93.19%;18.06%;0.857;0.211;{'revenue_growth': 0.4, 'dividend_yield': 0.6}
+232.71%;93.13%;17.14%;0.784;0.219;{'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+232.45%;92.88%;18.49%;0.831;0.222;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.5}
+232.43%;92.86%;20.27%;0.812;0.25;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+232.36%;92.79%;27.09%;0.891;0.304;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+232.35%;92.77%;27.61%;0.794;0.348;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+232.28%;92.71%;22.51%;0.843;0.267;{'roe': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+232.24%;92.66%;17.69%;0.825;0.214;{'roe': 0.6, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+232.16%;92.58%;22.57%;0.815;0.277;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+232.08%;92.50%;26.99%;0.878;0.307;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+231.61%;92.04%;21.20%;0.777;0.273;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+231.60%;92.02%;31.91%;0.777;0.411;{'fcfy': 0.2, 'roic_wacc': 0.6, 'dividend_yield': 0.2}
+231.50%;91.92%;28.42%;0.803;0.354;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+231.48%;91.91%;-12.31%;0.784;-0.157;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.5}
+231.45%;91.88%;21.88%;0.846;0.259;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+231.42%;91.85%;23.04%;0.836;0.276;{'fcfy': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+231.35%;91.78%;17.07%;0.833;0.205;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+231.28%;91.70%;17.92%;0.841;0.213;{'roe': 0.7, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+231.26%;91.68%;35.13%;0.859;0.409;{'roe': 0.3, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+231.14%;91.56%;32.51%;0.936;0.347;{'roe': 0.5, 'fcfy': 0.4, 'revenue_growth': 0.1}
+231.14%;91.56%;26.55%;0.825;0.322;{'roe': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.6}
+230.97%;91.39%;-12.62%;0.773;-0.163;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.7}
+230.94%;91.37%;26.67%;0.876;0.304;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+230.88%;91.31%;22.55%;0.916;0.246;{'roe': 0.1, 'fcfy': 0.8, 'revenue_growth': 0.1}
+230.86%;91.28%;24.96%;0.881;0.283;{'roe': 0.6, 'fcfy': 0.3, 'revenue_growth': 0.1}
+230.83%;91.26%;23.18%;0.791;0.293;{'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+230.82%;91.25%;-6.11%;0.806;-0.076;{'roic_wacc': 0.1, 'revenue_growth': 0.9}
+230.73%;91.15%;38.86%;0.815;0.477;{'roe': 0.1, 'fcfy': 0.5, 'dividend_yield': 0.4}
+230.72%;91.14%;-11.31%;0.812;-0.139;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+230.60%;91.02%;2.62%;0.841;0.031;{'fcfy': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+230.33%;90.76%;30.19%;0.776;0.389;{'roic_wacc': 0.7, 'dividend_yield': 0.3}
+230.30%;90.73%;27.37%;0.812;0.337;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+230.14%;90.56%;25.74%;0.76;0.339;{'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+230.10%;90.53%;27.88%;0.764;0.365;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+229.95%;90.37%;30.15%;0.886;0.34;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+229.90%;90.33%;28.45%;0.788;0.361;{'roe': 0.1, 'fcfy': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+229.82%;90.25%;33.01%;0.857;0.385;{'roe': 0.1, 'fcfy': 0.7, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+229.81%;90.24%;26.72%;0.86;0.311;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+229.69%;90.11%;25.77%;0.835;0.309;{'roe': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+229.62%;90.04%;-6.77%;0.777;-0.087;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+229.53%;89.95%;29.72%;0.842;0.353;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+229.35%;89.77%;24.00%;0.828;0.29;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+229.33%;89.76%;29.21%;0.767;0.381;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+229.32%;89.75%;22.36%;0.813;0.275;{'roe': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+229.26%;89.69%;19.58%;0.889;0.22;{'roe': 0.5, 'fcfy': 0.2, 'revenue_growth': 0.3}
+229.05%;89.48%;14.66%;0.782;0.188;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+228.70%;89.12%;15.66%;0.849;0.185;{'roe': 0.7, 'revenue_growth': 0.3}
+228.62%;89.05%;26.60%;0.764;0.348;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+228.61%;89.04%;22.83%;0.881;0.259;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+228.52%;88.95%;-8.82%;0.881;-0.1;{'fcfy': 0.7, 'revenue_growth': 0.3}
+228.46%;88.88%;16.51%;0.797;0.207;{'roe': 0.9, 'revenue_growth': 0.1}
+228.39%;88.82%;18.41%;0.774;0.238;{'roe': 0.7, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+228.30%;88.72%;24.71%;0.827;0.299;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+228.10%;88.52%;24.19%;0.854;0.283;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+227.93%;88.35%;31.05%;0.78;0.398;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.2}
+227.87%;88.29%;35.28%;0.79;0.446;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+227.82%;88.25%;13.66%;0.784;0.174;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+227.79%;88.21%;33.95%;0.844;0.402;{'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+227.70%;88.12%;23.51%;0.812;0.29;{'roe': 0.7, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+226.88%;87.31%;24.88%;0.859;0.29;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+226.77%;87.20%;28.48%;0.831;0.343;{'fcfy': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+226.71%;87.14%;32.50%;0.796;0.408;{'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+226.01%;86.44%;19.95%;0.83;0.24;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+226.01%;86.43%;18.14%;0.803;0.226;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+225.97%;86.40%;34.96%;0.774;0.452;{'roe': 0.2, 'fcfy': 0.2, 'dividend_yield': 0.6}
+225.84%;86.26%;28.74%;0.769;0.373;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+225.67%;86.10%;25.00%;0.776;0.322;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+225.41%;85.83%;13.54%;0.797;0.17;{'roe': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+225.33%;85.75%;17.37%;0.822;0.211;{'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.5}
+225.31%;85.74%;31.68%;0.772;0.41;{'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+225.31%;85.74%;40.04%;0.814;0.492;{'roe': 0.3, 'fcfy': 0.4, 'dividend_yield': 0.3}
+225.29%;85.71%;26.83%;0.77;0.349;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+225.15%;85.57%;8.47%;0.75;0.113;{'roic_wacc': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+225.06%;85.48%;35.58%;0.814;0.437;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+225.06%;85.48%;19.33%;0.869;0.222;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+225.01%;85.43%;33.47%;0.768;0.436;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+224.90%;85.33%;24.30%;0.831;0.292;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+224.48%;84.91%;-10.54%;0.839;-0.126;{'fcfy': 0.5, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+224.34%;84.76%;23.27%;0.815;0.285;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+223.86%;84.29%;27.37%;0.758;0.361;{'roe': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+223.67%;84.09%;22.21%;0.824;0.269;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+223.64%;84.07%;25.24%;0.863;0.292;{'roe': 0.3, 'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+223.58%;84.00%;11.65%;0.795;0.147;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+223.42%;83.84%;36.47%;0.765;0.477;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+223.29%;83.72%;32.21%;0.85;0.379;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+223.29%;83.72%;21.24%;0.784;0.271;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+223.11%;83.53%;15.63%;0.79;0.198;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+223.01%;83.43%;15.53%;0.799;0.194;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+222.93%;83.35%;23.66%;0.869;0.272;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+222.92%;83.34%;19.48%;0.775;0.251;{'roe': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+222.73%;83.16%;11.40%;0.756;0.151;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+222.52%;82.94%;22.70%;0.864;0.263;{'roe': 0.2, 'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+222.40%;82.82%;14.65%;0.822;0.178;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+222.28%;82.71%;26.81%;0.823;0.326;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+222.21%;82.63%;13.34%;0.84;0.159;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+222.17%;82.59%;20.77%;0.768;0.27;{'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+222.13%;82.55%;27.63%;0.777;0.355;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+222.08%;82.51%;21.29%;0.813;0.262;{'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.4}
+222.08%;82.51%;13.28%;0.751;0.177;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+222.03%;82.46%;20.74%;0.763;0.272;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+221.43%;81.86%;17.57%;0.834;0.211;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.3}
+220.89%;81.32%;16.73%;0.816;0.205;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.5}
+220.88%;81.31%;19.33%;0.833;0.232;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+220.87%;81.29%;25.48%;0.82;0.311;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+220.81%;81.24%;15.78%;0.779;0.202;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+220.72%;81.14%;29.26%;0.768;0.381;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+220.52%;80.94%;29.85%;0.769;0.388;{'roe': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+220.14%;80.56%;11.13%;0.792;0.141;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+220.10%;80.53%;12.99%;0.812;0.16;{'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.5}
+220.03%;80.46%;30.60%;0.764;0.4;{'roe': 0.4, 'fcfy': 0.2, 'dividend_yield': 0.4}
+219.96%;80.39%;19.05%;0.762;0.25;{'roe': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.7}
+219.94%;80.37%;15.11%;0.821;0.184;{'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.4}
+219.88%;80.30%;24.83%;0.788;0.315;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+219.86%;80.29%;18.69%;0.794;0.235;{'roe': 0.6, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+219.68%;80.11%;32.26%;0.765;0.422;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+219.64%;80.07%;18.78%;0.742;0.253;{'roe': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+219.39%;79.82%;23.74%;0.816;0.291;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+219.36%;79.78%;19.97%;0.794;0.252;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+219.30%;79.72%;19.24%;0.807;0.238;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+219.25%;79.67%;20.79%;0.768;0.271;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+219.07%;79.49%;14.56%;0.798;0.182;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+219.00%;79.42%;24.80%;0.758;0.327;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+218.84%;79.26%;23.16%;0.815;0.284;{'roe': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+218.73%;79.16%;29.98%;0.914;0.328;{'roe': 0.4, 'fcfy': 0.5, 'revenue_growth': 0.1}
+218.63%;79.06%;14.30%;0.8;0.179;{'roe': 0.8, 'revenue_growth': 0.2}
+218.60%;79.02%;34.62%;0.769;0.45;{'roe': 0.3, 'fcfy': 0.3, 'dividend_yield': 0.4}
+218.58%;79.00%;10.26%;0.747;0.137;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+218.44%;78.86%;6.81%;0.79;0.086;{'roe': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+218.44%;78.86%;14.35%;0.761;0.189;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+218.30%;78.73%;-7.12%;0.793;-0.09;{'fcfy': 0.2, 'revenue_growth': 0.8}
+218.25%;78.68%;-10.21%;0.776;-0.132;{'roe': 0.1, 'revenue_growth': 0.9}
+218.11%;78.53%;25.25%;0.738;0.342;{'roe': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.7}
+218.02%;78.44%;29.29%;0.868;0.337;{'roe': 0.4, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+217.92%;78.35%;13.79%;0.792;0.174;{'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+217.89%;78.31%;28.68%;0.743;0.386;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+217.82%;78.25%;-11.63%;0.736;-0.158;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+217.65%;78.08%;23.57%;0.781;0.302;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+217.59%;78.02%;27.68%;0.816;0.339;{'roe': 0.2, 'fcfy': 0.7, 'dividend_yield': 0.1}
+217.50%;77.93%;-18.71%;0.724;-0.258;{'roic_wacc': 0.2, 'revenue_growth': 0.8}
+217.14%;77.57%;15.92%;0.779;0.204;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+217.03%;77.46%;14.76%;0.775;0.19;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+216.95%;77.37%;23.29%;0.797;0.292;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+216.87%;77.29%;-7.47%;0.833;-0.09;{'roe': 0.1, 'fcfy': 0.6, 'revenue_growth': 0.3}
+216.83%;77.25%;26.61%;0.766;0.347;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+216.70%;77.12%;27.34%;0.761;0.359;{'roe': 0.2, 'roic_wacc': 0.6, 'dividend_yield': 0.2}
+216.46%;76.89%;17.82%;0.77;0.232;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+216.26%;76.69%;21.53%;0.767;0.281;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+216.22%;76.65%;12.65%;0.807;0.157;{'roe': 0.6, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+216.09%;76.52%;19.69%;0.832;0.237;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.3}
+215.83%;76.26%;29.15%;0.723;0.403;{'fcfy': 0.3, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+215.73%;76.16%;26.46%;0.804;0.329;{'roe': 0.1, 'fcfy': 0.8, 'dividend_yield': 0.1}
+215.52%;75.94%;21.12%;0.755;0.28;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+215.44%;75.87%;22.17%;0.738;0.3;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+215.37%;75.79%;22.31%;0.735;0.304;{'roe': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+215.29%;75.71%;22.16%;0.78;0.284;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+215.10%;75.52%;14.01%;0.785;0.178;{'roe': 0.4, 'roic_wacc': 0.6}
+214.94%;75.36%;36.08%;0.772;0.467;{'roe': 0.3, 'fcfy': 0.2, 'dividend_yield': 0.5}
+214.74%;75.17%;16.37%;0.743;0.22;{'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+214.73%;75.16%;28.36%;0.769;0.369;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+214.65%;75.07%;19.87%;0.817;0.243;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.4}
+214.37%;74.80%;22.15%;0.741;0.299;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+214.31%;74.74%;29.36%;0.799;0.368;{'fcfy': 0.5, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+214.23%;74.65%;23.37%;0.769;0.304;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+213.81%;74.24%;17.67%;0.737;0.24;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+213.81%;74.23%;21.55%;0.743;0.29;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+213.67%;74.09%;19.89%;0.77;0.258;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+213.66%;74.09%;26.26%;0.739;0.355;{'roe': 0.6, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+213.62%;74.04%;17.74%;0.799;0.222;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+213.54%;73.97%;19.08%;0.72;0.265;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+213.50%;73.93%;15.92%;0.76;0.209;{'roe': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+213.23%;73.65%;22.45%;0.739;0.304;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+213.22%;73.65%;20.98%;0.789;0.266;{'roe': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+213.11%;73.53%;19.03%;0.716;0.266;{'roe': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+212.98%;73.40%;16.94%;0.789;0.215;{'roe': 0.6, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+212.93%;73.35%;30.64%;0.765;0.4;{'fcfy': 0.4, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+212.79%;73.22%;15.16%;0.715;0.212;{'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+212.71%;73.14%;17.55%;0.749;0.234;{'roe': 0.8, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+212.63%;73.06%;23.51%;0.731;0.322;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+212.42%;72.85%;20.27%;0.79;0.256;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+212.25%;72.68%;19.52%;0.726;0.269;{'fcfy': 0.7, 'dividend_yield': 0.3}
+212.23%;72.65%;19.06%;0.791;0.241;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+212.19%;72.61%;22.22%;0.73;0.304;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+212.14%;72.56%;18.08%;0.75;0.241;{'roe': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+212.11%;72.54%;10.52%;0.795;0.132;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+212.05%;72.47%;-9.07%;0.802;-0.113;{'fcfy': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+211.67%;72.09%;27.70%;0.721;0.384;{'roe': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+211.63%;72.06%;18.75%;0.803;0.233;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+211.57%;72.00%;10.56%;0.784;0.135;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.4}
+211.53%;71.96%;19.47%;0.755;0.258;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+211.37%;71.80%;-13.47%;0.723;-0.186;{'roic_wacc': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+211.25%;71.67%;30.92%;0.76;0.407;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+211.02%;71.45%;25.01%;0.776;0.322;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+210.76%;71.18%;16.85%;0.838;0.201;{'fcfy': 0.9, 'revenue_growth': 0.1}
+210.56%;70.99%;11.30%;0.752;0.15;{'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+210.52%;70.94%;22.16%;0.718;0.309;{'roe': 0.2, 'dividend_yield': 0.8}
+210.39%;70.82%;13.63%;0.735;0.186;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+210.23%;70.66%;23.77%;0.801;0.297;{'roe': 0.5, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+210.00%;70.43%;15.04%;0.788;0.191;{'roe': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+209.94%;70.36%;21.45%;0.748;0.287;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+209.91%;70.34%;25.25%;0.815;0.31;{'roe': 0.4, 'fcfy': 0.4, 'dividend_yield': 0.2}
+209.91%;70.33%;21.91%;0.793;0.276;{'roe': 0.5, 'fcfy': 0.3, 'dividend_yield': 0.2}
+209.82%;70.25%;20.97%;0.742;0.283;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+209.80%;70.22%;8.75%;0.778;0.113;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+209.75%;70.17%;12.90%;0.821;0.157;{'roe': 0.6, 'fcfy': 0.1, 'revenue_growth': 0.3}
+209.36%;69.79%;20.16%;0.711;0.283;{'roe': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.3}
+209.35%;69.78%;22.42%;0.714;0.314;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+208.97%;69.40%;15.06%;0.745;0.202;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+208.85%;69.28%;20.80%;0.775;0.268;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+208.65%;69.07%;14.03%;0.793;0.177;{'fcfy': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+208.45%;68.88%;16.94%;0.807;0.21;{'roe': 0.4, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+208.38%;68.81%;9.90%;0.776;0.128;{'roe': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+208.11%;68.53%;22.51%;0.708;0.318;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.6}
+207.94%;68.37%;18.91%;0.801;0.236;{'roe': 0.5, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+207.71%;68.14%;27.71%;0.79;0.351;{'roe': 0.3, 'fcfy': 0.5, 'dividend_yield': 0.2}
+207.67%;68.09%;22.57%;0.699;0.323;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+207.60%;68.03%;19.00%;0.71;0.268;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+207.49%;67.92%;16.07%;0.775;0.208;{'roe': 0.5, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+207.28%;67.71%;27.42%;0.712;0.385;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+207.15%;67.57%;-14.78%;0.738;-0.2;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+207.13%;67.56%;6.72%;0.772;0.087;{'fcfy': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+207.07%;67.50%;8.75%;0.786;0.111;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.3}
+206.87%;67.30%;21.17%;0.692;0.306;{'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+206.61%;67.04%;21.71%;0.776;0.28;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+206.56%;66.99%;17.78%;0.751;0.237;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+206.51%;66.94%;12.46%;0.715;0.174;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+206.49%;66.91%;24.29%;0.694;0.35;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+206.44%;66.86%;13.26%;0.786;0.169;{'roe': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.5}
+206.31%;66.73%;22.03%;0.699;0.315;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+206.20%;66.62%;15.85%;0.711;0.223;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+206.19%;66.62%;18.13%;0.692;0.262;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+205.97%;66.40%;18.36%;0.789;0.233;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+205.97%;66.40%;19.25%;0.705;0.273;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+205.72%;66.14%;15.42%;0.702;0.22;{'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+205.61%;66.04%;20.41%;0.802;0.255;{'roe': 0.1, 'fcfy': 0.8, 'roic_wacc': 0.1}
+205.54%;65.97%;18.45%;0.796;0.232;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+205.42%;65.84%;13.29%;0.761;0.175;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+205.38%;65.81%;6.59%;0.76;0.087;{'revenue_growth': 0.5, 'dividend_yield': 0.5}
+205.36%;65.79%;7.15%;0.781;0.092;{'fcfy': 0.7, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+205.24%;65.67%;8.14%;0.767;0.106;{'fcfy': 0.8, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+205.08%;65.50%;15.05%;0.737;0.204;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+205.04%;65.46%;8.53%;0.699;0.122;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+205.03%;65.46%;10.62%;0.711;0.149;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+204.85%;65.28%;11.64%;0.713;0.163;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+204.28%;64.70%;19.84%;0.684;0.29;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+204.21%;64.64%;24.63%;0.713;0.345;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+203.91%;64.33%;22.87%;0.716;0.319;{'roe': 0.1, 'fcfy': 0.4, 'dividend_yield': 0.5}
+203.82%;64.25%;6.97%;0.745;0.093;{'roe': 0.7, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+203.75%;64.17%;17.12%;0.748;0.229;{'roe': 0.5, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+203.71%;64.14%;22.82%;0.704;0.324;{'roe': 0.2, 'fcfy': 0.1, 'dividend_yield': 0.7}
+203.66%;64.09%;16.64%;0.731;0.228;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+203.63%;64.05%;17.88%;0.742;0.241;{'roe': 0.6, 'fcfy': 0.2, 'dividend_yield': 0.2}
+203.62%;64.04%;22.54%;0.725;0.311;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+203.56%;63.98%;33.44%;0.731;0.457;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+203.56%;63.98%;14.45%;0.693;0.208;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+203.51%;63.93%;20.92%;0.822;0.255;{'roe': 0.3, 'fcfy': 0.7}
+203.09%;63.51%;20.87%;0.701;0.298;{'roe': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+203.02%;63.44%;7.51%;0.733;0.102;{'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.6}
+203.01%;63.44%;23.78%;0.742;0.32;{'roe': 0.5, 'fcfy': 0.1, 'dividend_yield': 0.4}
+202.85%;63.27%;16.98%;0.691;0.246;{'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+202.81%;63.24%;16.82%;0.761;0.221;{'fcfy': 0.9, 'dividend_yield': 0.1}
+202.60%;63.03%;25.32%;0.712;0.355;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+202.49%;62.92%;12.99%;0.7;0.186;{'roe': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+202.41%;62.84%;17.33%;0.682;0.254;{'roe': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+202.33%;62.75%;12.52%;0.768;0.163;{'roe': 0.5, 'roic_wacc': 0.5}
+202.13%;62.55%;14.85%;0.744;0.2;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+202.13%;62.55%;16.53%;0.75;0.22;{'roe': 0.2, 'fcfy': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+201.95%;62.37%;17.61%;0.724;0.243;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+201.91%;62.33%;4.26%;0.727;0.059;{'roe': 0.8, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+201.65%;62.07%;23.54%;0.741;0.318;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+201.64%;62.07%;17.71%;0.723;0.245;{'roe': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+201.57%;61.99%;8.38%;0.759;0.11;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.3}
+201.56%;61.99%;17.05%;0.811;0.21;{'roe': 0.2, 'fcfy': 0.6, 'roic_wacc': 0.2}
+201.47%;61.90%;29.37%;0.726;0.405;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+201.47%;61.90%;19.09%;0.745;0.256;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+201.33%;61.76%;16.20%;0.672;0.241;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+201.31%;61.74%;18.79%;0.747;0.251;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+201.29%;61.71%;15.75%;0.705;0.223;{'roe': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+201.01%;61.43%;20.29%;0.706;0.287;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+200.69%;61.12%;13.08%;0.734;0.178;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+200.57%;60.99%;6.84%;0.691;0.099;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+200.42%;60.84%;6.07%;0.76;0.08;{'revenue_growth': 0.6, 'dividend_yield': 0.4}
+199.83%;60.25%;-14.89%;0.719;-0.207;{'fcfy': 0.2, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+199.75%;60.18%;14.99%;0.709;0.211;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+199.58%;60.00%;22.25%;0.794;0.28;{'roe': 0.4, 'fcfy': 0.5, 'dividend_yield': 0.1}
+199.52%;59.95%;18.83%;0.698;0.27;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+199.40%;59.83%;9.27%;0.753;0.123;{'roe': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+199.40%;59.82%;-18.32%;0.73;-0.251;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+199.29%;59.71%;11.71%;0.68;0.172;{'roe': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.8}
+199.15%;59.57%;-2.23%;0.777;-0.029;{'fcfy': 0.8, 'revenue_growth': 0.2}
+199.12%;59.55%;18.35%;0.678;0.271;{'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+199.02%;59.44%;13.08%;0.811;0.161;{'roe': 0.3, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+198.62%;59.05%;18.17%;0.7;0.259;{'roe': 0.6, 'dividend_yield': 0.4}
+198.36%;58.79%;23.39%;0.712;0.328;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+198.20%;58.63%;23.10%;0.744;0.31;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+198.14%;58.57%;17.47%;0.69;0.253;{'roe': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+198.11%;58.54%;14.62%;0.675;0.217;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+197.74%;58.17%;11.21%;0.744;0.151;{'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.6}
+197.60%;58.03%;27.22%;0.696;0.391;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+197.53%;57.96%;22.79%;0.697;0.327;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+197.22%;57.65%;17.99%;0.692;0.26;{'roe': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+196.97%;57.40%;18.60%;0.808;0.23;{'roe': 0.5, 'fcfy': 0.5}
+196.76%;57.18%;12.67%;0.684;0.185;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+196.65%;57.08%;18.43%;0.693;0.266;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+196.42%;56.85%;10.97%;0.702;0.156;{'fcfy': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+196.35%;56.78%;12.67%;0.669;0.189;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+196.30%;56.73%;14.28%;0.681;0.21;{'roe': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.4}
+196.13%;56.56%;9.46%;0.769;0.123;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+196.08%;56.50%;22.55%;0.724;0.311;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+196.02%;56.45%;20.63%;0.669;0.308;{'fcfy': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.3}
+196.02%;56.45%;17.29%;0.744;0.233;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+195.92%;56.34%;18.04%;0.713;0.253;{'roe': 0.2, 'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+195.65%;56.07%;22.86%;0.697;0.328;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+195.49%;55.91%;14.62%;0.745;0.196;{'roe': 0.6, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+195.40%;55.82%;4.59%;0.745;0.062;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.3}
+195.33%;55.76%;22.98%;0.694;0.331;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+195.29%;55.72%;-7.01%;0.715;-0.098;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+195.28%;55.70%;6.64%;0.758;0.088;{'roe': 0.6, 'roic_wacc': 0.4}
+195.20%;55.62%;10.74%;0.68;0.158;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+195.18%;55.61%;11.85%;0.681;0.174;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+194.95%;55.38%;22.32%;0.711;0.314;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+194.90%;55.32%;23.44%;0.697;0.336;{'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+194.83%;55.25%;10.47%;0.738;0.142;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+194.71%;55.13%;15.71%;0.651;0.241;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+194.66%;55.09%;7.14%;0.707;0.101;{'revenue_growth': 0.3, 'dividend_yield': 0.7}
+194.61%;55.03%;12.53%;0.736;0.17;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+194.58%;55.00%;11.88%;0.716;0.166;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+194.57%;55.00%;17.95%;0.777;0.231;{'roe': 0.2, 'fcfy': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+194.55%;54.98%;15.10%;0.685;0.22;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+194.28%;54.70%;11.34%;0.673;0.169;{'roe': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+194.12%;54.54%;22.94%;0.751;0.306;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+193.92%;54.34%;13.24%;0.699;0.189;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+193.90%;54.33%;16.29%;0.71;0.229;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+193.83%;54.26%;12.06%;0.67;0.18;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+193.73%;54.16%;11.86%;0.669;0.177;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+193.63%;54.05%;18.90%;0.697;0.271;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+193.60%;54.02%;-3.66%;0.696;-0.053;{'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.3}
+193.59%;54.02%;-12.85%;0.711;-0.181;{'fcfy': 0.1, 'revenue_growth': 0.9}
+193.47%;53.90%;18.15%;0.693;0.262;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+193.36%;53.79%;12.75%;0.669;0.191;{'roe': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.5}
+193.00%;53.43%;16.87%;0.795;0.212;{'roe': 0.1, 'fcfy': 0.7, 'roic_wacc': 0.2}
+192.97%;53.39%;15.71%;0.676;0.232;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+192.74%;53.17%;13.50%;0.718;0.188;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+192.73%;53.16%;14.12%;0.676;0.209;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+192.57%;52.99%;11.15%;0.667;0.167;{'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+192.37%;52.80%;15.37%;0.689;0.223;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+192.32%;52.74%;14.27%;0.773;0.185;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+192.07%;52.50%;14.13%;0.671;0.211;{'roe': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.6}
+192.07%;52.49%;10.77%;0.651;0.165;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+191.99%;52.42%;12.15%;0.76;0.16;{'roe': 0.3, 'fcfy': 0.5, 'roic_wacc': 0.2}
+191.99%;52.41%;5.19%;0.678;0.077;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+191.84%;52.27%;20.38%;0.697;0.293;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+191.74%;52.16%;10.98%;0.664;0.165;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+191.65%;52.08%;17.63%;0.716;0.246;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+191.41%;51.84%;6.57%;0.722;0.091;{'fcfy': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+191.40%;51.83%;12.16%;0.67;0.181;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+191.35%;51.77%;3.03%;0.696;0.044;{'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+191.29%;51.71%;9.55%;0.665;0.144;{'roic_wacc': 0.4, 'dividend_yield': 0.6}
+190.96%;51.38%;22.12%;0.676;0.327;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+190.96%;51.38%;13.88%;0.707;0.196;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+190.68%;51.11%;-0.04%;0.728;-0.001;{'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+190.59%;51.02%;13.95%;0.66;0.211;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+190.44%;50.87%;3.93%;0.746;0.053;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.4}
+190.18%;50.61%;5.77%;0.685;0.084;{'roe': 0.9, 'roic_wacc': 0.1}
+190.13%;50.55%;12.91%;0.692;0.187;{'roe': 0.3, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+190.11%;50.53%;11.96%;0.716;0.167;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+189.20%;49.62%;-21.12%;0.671;-0.315;{'roic_wacc': 0.1, 'revenue_growth': 0.8, 'dividend_yield': 0.1}
+189.19%;49.62%;5.51%;0.692;0.08;{'roe': 0.8, 'fcfy': 0.1, 'roic_wacc': 0.1}
+189.05%;49.48%;16.12%;0.654;0.246;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.7}
+189.01%;49.44%;17.87%;0.673;0.266;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+189.00%;49.42%;7.64%;0.701;0.109;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+188.88%;49.30%;8.76%;0.677;0.129;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+188.70%;49.12%;23.26%;0.712;0.327;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+188.52%;48.95%;17.32%;0.714;0.243;{'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+188.51%;48.93%;6.59%;0.694;0.095;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+188.47%;48.90%;-11.65%;0.697;-0.167;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+188.20%;48.63%;11.43%;0.672;0.17;{'roe': 0.4, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+188.13%;48.56%;-18.84%;0.663;-0.284;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+188.06%;48.49%;1.27%;0.708;0.018;{'roe': 0.6, 'fcfy': 0.2, 'roic_wacc': 0.2}
+187.98%;48.40%;3.69%;0.659;0.056;{'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.7}
+187.87%;48.30%;9.68%;0.654;0.148;{'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.5}
+187.80%;48.22%;7.17%;0.698;0.103;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+187.69%;48.11%;13.77%;0.693;0.199;{'roe': 0.5, 'fcfy': 0.2, 'dividend_yield': 0.3}
+187.68%;48.11%;9.12%;0.685;0.133;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+187.65%;48.08%;17.09%;0.703;0.243;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+187.00%;47.42%;11.76%;0.656;0.179;{'roe': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+186.92%;47.34%;13.19%;0.664;0.199;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+186.89%;47.31%;16.10%;0.643;0.25;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+186.81%;47.24%;13.05%;0.76;0.172;{'roe': 0.3, 'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+186.77%;47.20%;-15.14%;0.692;-0.219;{'fcfy': 0.1, 'revenue_growth': 0.8, 'dividend_yield': 0.1}
+186.73%;47.15%;7.97%;0.722;0.11;{'roe': 0.7, 'fcfy': 0.2, 'roic_wacc': 0.1}
+186.69%;47.12%;16.52%;0.704;0.235;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+186.33%;46.76%;15.29%;0.65;0.235;{'roe': 0.7, 'dividend_yield': 0.3}
+186.29%;46.71%;8.27%;0.679;0.122;{'roe': 0.5, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+186.24%;46.67%;11.69%;0.697;0.168;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+186.08%;46.50%;11.43%;0.743;0.154;{'roe': 0.1, 'fcfy': 0.9}
+186.03%;46.45%;16.86%;0.734;0.23;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+185.82%;46.24%;12.50%;0.679;0.184;{'roe': 0.7, 'fcfy': 0.1, 'dividend_yield': 0.2}
+185.72%;46.14%;2.25%;0.674;0.033;{'roe': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+185.71%;46.14%;5.43%;0.641;0.085;{'roic_wacc': 0.3, 'dividend_yield': 0.7}
+185.68%;46.10%;7.65%;0.68;0.113;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+185.67%;46.10%;9.83%;0.651;0.151;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+185.11%;45.54%;18.32%;0.685;0.267;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+184.88%;45.31%;13.80%;0.778;0.177;{'roe': 0.4, 'fcfy': 0.6}
+184.85%;45.27%;13.57%;0.655;0.207;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+184.84%;45.27%;9.93%;0.646;0.154;{'roe': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.5}
+184.84%;45.27%;7.05%;0.661;0.107;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+184.80%;45.23%;3.10%;0.683;0.045;{'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+184.78%;45.20%;16.43%;0.651;0.252;{'fcfy': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.3}
+184.76%;45.19%;-23.93%;0.676;-0.354;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+184.67%;45.10%;7.00%;0.719;0.097;{'roe': 0.5, 'fcfy': 0.4, 'roic_wacc': 0.1}
+184.49%;44.92%;6.28%;0.676;0.093;{'fcfy': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+184.39%;44.82%;7.82%;0.651;0.12;{'roe': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+184.37%;44.79%;5.66%;0.693;0.082;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+184.24%;44.66%;18.00%;0.653;0.275;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+184.21%;44.63%;7.33%;0.671;0.109;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+184.21%;44.63%;13.67%;0.617;0.222;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+183.99%;44.41%;3.62%;0.656;0.055;{'revenue_growth': 0.2, 'dividend_yield': 0.8}
+183.98%;44.41%;8.02%;0.671;0.12;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+183.92%;44.35%;-14.21%;0.715;-0.199;{'fcfy': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+183.78%;44.21%;11.58%;0.628;0.184;{'roic_wacc': 0.6, 'dividend_yield': 0.4}
+183.74%;44.17%;11.02%;0.643;0.171;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+183.69%;44.12%;7.37%;0.623;0.118;{'roic_wacc': 0.2, 'dividend_yield': 0.8}
+183.68%;44.11%;10.64%;0.641;0.166;{'roic_wacc': 0.5, 'dividend_yield': 0.5}
+183.66%;44.09%;12.70%;0.742;0.171;{'roe': 0.2, 'fcfy': 0.8}
+183.35%;43.78%;6.45%;0.658;0.098;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+183.01%;43.43%;14.32%;0.641;0.223;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+182.93%;43.36%;13.24%;0.656;0.202;{'fcfy': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+182.62%;43.05%;-2.41%;0.688;-0.035;{'fcfy': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+182.45%;42.88%;0.12%;0.701;0.002;{'roe': 0.7, 'fcfy': 0.1, 'roic_wacc': 0.2}
+182.31%;42.73%;17.40%;0.679;0.256;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+182.19%;42.61%;1.03%;0.713;0.014;{'roe': 0.7, 'roic_wacc': 0.3}
+182.11%;42.54%;12.10%;0.628;0.193;{'roe': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.8}
+182.06%;42.49%;2.95%;0.675;0.044;{'roe': 0.7, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+181.92%;42.35%;5.39%;0.639;0.084;{'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+181.89%;42.32%;7.78%;0.626;0.124;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+181.87%;42.30%;6.34%;0.651;0.097;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+181.75%;42.17%;16.71%;0.719;0.232;{'roe': 0.3, 'fcfy': 0.6, 'dividend_yield': 0.1}
+181.68%;42.10%;15.90%;0.759;0.21;{'roe': 0.2, 'fcfy': 0.7, 'roic_wacc': 0.1}
+181.48%;41.91%;10.61%;0.644;0.165;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.4}
+181.31%;41.73%;3.75%;0.626;0.06;{'revenue_growth': 0.1, 'dividend_yield': 0.9}
+181.24%;41.66%;11.88%;0.642;0.185;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+181.16%;41.59%;10.87%;0.637;0.171;{'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.4}
+181.11%;41.54%;8.14%;0.623;0.131;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.5}
+181.09%;41.52%;11.89%;0.701;0.17;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+180.90%;41.32%;3.62%;0.635;0.057;{'fcfy': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+180.79%;41.21%;6.39%;0.727;0.088;{'roe': 0.6, 'fcfy': 0.3, 'roic_wacc': 0.1}
+180.77%;41.19%;7.08%;0.667;0.106;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+180.45%;40.88%;8.38%;0.695;0.121;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+180.27%;40.70%;11.67%;0.675;0.173;{'roe': 0.6, 'fcfy': 0.1, 'dividend_yield': 0.3}
+180.13%;40.55%;9.27%;0.733;0.126;{'roe': 0.6, 'fcfy': 0.4}
+179.93%;40.35%;13.17%;0.647;0.204;{'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+179.91%;40.33%;16.04%;0.65;0.247;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+179.80%;40.23%;9.64%;0.735;0.131;{'roe': 0.7, 'fcfy': 0.3}
+179.75%;40.18%;10.52%;0.631;0.167;{'roe': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+179.54%;39.97%;15.33%;0.68;0.225;{'roe': 0.4, 'fcfy': 0.3, 'dividend_yield': 0.3}
+179.32%;39.74%;15.01%;0.635;0.237;{'roe': 0.1, 'fcfy': 0.3, 'dividend_yield': 0.6}
+179.30%;39.73%;17.11%;0.648;0.264;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+179.15%;39.57%;8.73%;0.705;0.124;{'roe': 0.9, 'fcfy': 0.1}
+179.07%;39.50%;8.17%;0.645;0.127;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+179.03%;39.45%;12.24%;0.661;0.185;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+178.73%;39.15%;8.27%;0.644;0.128;{'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+178.69%;39.12%;16.48%;0.634;0.26;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+178.69%;39.11%;14.41%;0.627;0.23;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+177.93%;38.36%;6.03%;0.622;0.097;{'roe': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.4}
+176.68%;37.11%;10.20%;0.639;0.159;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+176.44%;36.87%;14.08%;0.629;0.224;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+176.30%;36.73%;3.87%;0.622;0.062;{'roe': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.3}
+176.25%;36.67%;2.26%;0.696;0.032;{'roe': 0.4, 'fcfy': 0.4, 'roic_wacc': 0.2}
+176.01%;36.43%;7.38%;0.599;0.123;{'roe': 0.1, 'dividend_yield': 0.9}
+175.99%;36.41%;7.62%;0.678;0.112;{'roe': 0.6, 'fcfy': 0.3, 'dividend_yield': 0.1}
+175.93%;36.35%;8.00%;0.619;0.129;{'roe': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+175.88%;36.30%;6.40%;0.635;0.101;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+175.73%;36.15%;5.06%;0.61;0.083;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+175.59%;36.02%;10.68%;0.65;0.164;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+175.57%;36.00%;13.28%;0.689;0.193;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+175.52%;35.95%;4.24%;0.606;0.07;{'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.6}
+175.51%;35.93%;7.87%;0.643;0.123;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+174.98%;35.41%;-11.01%;0.666;-0.165;{'fcfy': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.3}
+174.81%;35.24%;8.04%;0.626;0.128;{'roe': 0.7, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+174.53%;34.96%;7.76%;0.613;0.127;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+174.13%;34.55%;5.49%;0.609;0.09;{'fcfy': 0.5, 'dividend_yield': 0.5}
+173.94%;34.36%;9.49%;0.62;0.153;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+173.79%;34.22%;8.39%;0.632;0.133;{'roe': 0.8, 'dividend_yield': 0.2}
+173.79%;34.22%;6.99%;0.694;0.101;{'roe': 0.8, 'fcfy': 0.2}
+173.44%;33.87%;-1.95%;0.662;-0.03;{'roe': 0.8, 'roic_wacc': 0.2}
+173.25%;33.67%;10.92%;0.641;0.17;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+172.83%;33.26%;9.85%;0.746;0.132;{'roe': 0.3, 'fcfy': 0.6, 'roic_wacc': 0.1}
+172.81%;33.24%;9.34%;0.631;0.148;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+172.78%;33.20%;2.87%;0.703;0.041;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+172.76%;33.19%;11.30%;0.633;0.179;{'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+172.66%;33.08%;6.15%;0.623;0.099;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+172.62%;33.05%;5.20%;0.717;0.073;{'roe': 0.4, 'fcfy': 0.5, 'roic_wacc': 0.1}
+172.51%;32.94%;3.74%;0.631;0.059;{'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.7}
+172.37%;32.79%;-16.53%;0.68;-0.243;{'fcfy': 0.6, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+172.35%;32.78%;2.80%;0.693;0.04;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+171.97%;32.40%;3.51%;0.641;0.055;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+171.88%;32.30%;8.20%;0.62;0.132;{'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.5}
+171.54%;31.97%;4.17%;0.698;0.06;{'roe': 0.4, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+170.88%;31.31%;-16.95%;0.658;-0.257;{'revenue_growth': 0.9, 'dividend_yield': 0.1}
+170.12%;30.54%;1.08%;0.633;0.017;{'roe': 0.9, 'dividend_yield': 0.1}
+169.92%;30.34%;11.29%;0.646;0.175;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+169.89%;30.31%;9.28%;0.627;0.148;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+169.74%;30.16%;3.64%;0.612;0.059;{'roe': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+169.71%;30.13%;1.84%;0.607;0.03;{'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+168.95%;29.38%;3.55%;0.59;0.06;{'fcfy': 0.6, 'dividend_yield': 0.4}
+168.27%;28.69%;3.81%;0.618;0.062;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+168.17%;28.59%;3.47%;0.71;0.049;{'roe': 0.4, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+168.12%;28.54%;0.66%;0.593;0.011;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+167.97%;28.40%;9.90%;0.621;0.159;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+167.93%;28.36%;0.51%;0.647;0.008;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+167.87%;28.30%;0.27%;0.625;0.004;{'roe': 0.6, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+167.81%;28.24%;-5.57%;0.614;-0.091;{'roe': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+167.72%;28.15%;-1.42%;0.581;-0.024;{'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.8}
+167.70%;28.13%;9.10%;0.62;0.147;{'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+167.28%;27.71%;0.42%;0.635;0.007;{'roe': 0.6, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+167.08%;27.51%;10.62%;0.635;0.167;{'fcfy': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+167.03%;27.46%;4.56%;0.664;0.069;{'roe': 0.5, 'fcfy': 0.4, 'dividend_yield': 0.1}
+166.60%;27.02%;6.80%;0.588;0.115;{'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.4}
+166.40%;26.82%;9.42%;0.587;0.161;{'roe': 0.1, 'fcfy': 0.2, 'dividend_yield': 0.7}
+165.85%;26.28%;6.87%;0.618;0.111;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+165.56%;25.98%;-0.80%;0.638;-0.012;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+165.46%;25.89%;8.22%;0.631;0.13;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+165.43%;25.86%;-4.87%;0.654;-0.074;{'fcfy': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+165.28%;25.70%;2.21%;0.571;0.039;{'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.7}
+164.89%;25.31%;-7.68%;0.641;-0.12;{'roe': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.3}
+164.42%;24.84%;3.05%;0.596;0.051;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+163.91%;24.33%;-1.00%;0.63;-0.016;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+163.89%;24.32%;-1.52%;0.585;-0.026;{'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.8}
+163.80%;24.22%;-22.47%;0.623;-0.361;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+163.77%;24.19%;4.79%;0.651;0.074;{'roe': 0.7, 'fcfy': 0.2, 'dividend_yield': 0.1}
+163.47%;23.89%;0.49%;0.579;0.008;{'roic_wacc': 0.1, 'dividend_yield': 0.9}
+163.39%;23.82%;5.02%;0.594;0.085;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.3}
+163.26%;23.69%;5.40%;0.604;0.089;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+162.59%;23.01%;10.95%;0.59;0.186;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+162.43%;22.85%;-3.21%;0.607;-0.053;{'roe': 0.6, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+162.32%;22.74%;-0.57%;0.62;-0.009;{'roe': 0.8, 'fcfy': 0.1, 'dividend_yield': 0.1}
+161.71%;22.14%;1.40%;0.59;0.024;{'fcfy': 0.4, 'dividend_yield': 0.6}
+161.54%;21.97%;6.98%;0.572;0.122;{'roe': 0.1, 'fcfy': 0.1, 'dividend_yield': 0.8}
+160.73%;21.16%;4.50%;0.614;0.073;{'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+159.47%;19.90%;-1.63%;0.634;-0.026;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+159.47%;19.90%;-0.89%;0.634;-0.014;{'roe': 0.5, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+158.71%;19.14%;-6.81%;0.586;-0.116;{'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+158.37%;18.79%;-26.71%;0.588;-0.454;{'roic_wacc': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.2}
+157.97%;18.40%;0.32%;0.609;0.005;{'roe': 0.7, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+157.95%;18.38%;-4.28%;0.64;-0.067;{'roe': 0.5, 'fcfy': 0.3, 'roic_wacc': 0.2}
+157.91%;18.34%;2.07%;0.592;0.035;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+157.36%;17.79%;-5.48%;0.601;-0.091;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+156.92%;17.35%;2.12%;0.58;0.037;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+155.11%;15.53%;-2.57%;0.555;-0.046;{'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+153.32%;13.74%;0.42%;0.569;0.007;{'fcfy': 0.3, 'dividend_yield': 0.7}
+153.05%;13.47%;-10.08%;0.562;-0.179;{'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+153.04%;13.47%;-10.89%;0.583;-0.187;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+152.90%;13.32%;-2.06%;0.554;-0.037;{'fcfy': 0.2, 'dividend_yield': 0.8}
+150.52%;10.95%;-20.67%;0.587;-0.352;{'roe': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.2}
+149.16%;9.59%;-3.87%;0.522;-0.074;{'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.8}
+146.48%;6.91%;-26.55%;0.566;-0.469;{'fcfy': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.2}
+146.05%;6.47%;-6.60%;0.564;-0.117;{'roe': 0.8, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+145.81%;6.23%;-18.23%;0.589;-0.309;{'revenue_growth': 0.7, 'dividend_yield': 0.3}
+142.55%;2.98%;-4.75%;0.516;-0.092;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+142.29%;2.72%;-6.36%;0.521;-0.122;{'fcfy': 0.1, 'dividend_yield': 0.9}
+142.00%;2.43%;-25.13%;0.563;-0.446;{'roe': 0.1, 'revenue_growth': 0.8, 'dividend_yield': 0.1}
+141.65%;2.07%;-3.54%;0.527;-0.067;{'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.6}
+141.03%;1.45%;-1.31%;0.529;-0.025;{'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+135.36%;-4.21%;-3.76%;0.509;-0.074;{'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.7}
+115.65%;-23.93%;-36.17%;0.479;-0.755;{'revenue_growth': 0.8, 'dividend_yield': 0.2}

@@ -1,0 +1,996 @@
+420.31571677286036 %;{'fcfy': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+282.72254942913594 %;{'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+352.00002412272903 %;{'roe': 0.1, 'fcfy': 0.7, 'dividend_yield': 0.2}
+330.29306839947026 %;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+298.365871023002 %;{'fcfy': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+277.6552992362772 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+355.354719287157 %;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+268.610084363634 %;{'roe': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.3}
+167.37102524182578 %;{'roe': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.3}
+274.85518805777986 %;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.4}
+258.1772962336028 %;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+235.55035179561742 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.7}
+348.85471831203523 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+299.21995217419106 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+280.8145329754139 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+408.1014072183676 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+259.16532302332365 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+280.0201002389452 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+254.0104415903134 %;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+334.9075828846209 %;{'roe': 0.2, 'fcfy': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+252.23867243888364 %;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+289.6336496919873 %;{'roe': 0.1, 'fcfy': 0.2, 'dividend_yield': 0.7}
+419.15939918941507 %;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+323.2696782430191 %;{'roe': 0.3, 'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+263.6781781410743 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+325.86539532278465 %;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+346.042677379972 %;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+315.4504819133886 %;{'revenue_growth': 0.9, 'dividend_yield': 0.1}
+337.2719873652695 %;{'roe': 0.1, 'fcfy': 0.6, 'dividend_yield': 0.3}
+256.3905543793006 %;{'roe': 0.4, 'roic_wacc': 0.6}
+277.56572968108316 %;{'roe': 0.4, 'revenue_growth': 0.6}
+253.71691332526854 %;{'roe': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+353.92739617523733 %;{'fcfy': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+197.74328961508547 %;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+300.489027002499 %;{'roic_wacc': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+297.19701168314356 %;{'roe': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+268.6942889564631 %;{'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+377.02851390623005 %;{'roe': 0.4, 'fcfy': 0.3, 'revenue_growth': 0.3}
+255.84495331371033 %;{'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+413.66524244193215 %;{'fcfy': 0.7, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+386.322134997936 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+393.0726068077446 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+295.63047278715925 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+487.4653033416081 %;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+215.6033098066068 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+308.73672244778305 %;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+279.0791558724786 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+726.7033631115684 %;{'fcfy': 0.1, 'revenue_growth': 0.8, 'dividend_yield': 0.1}
+222.36011512690305 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+259.2429301499889 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.4}
+367.18858212389244 %;{'fcfy': 0.1, 'roic_wacc': 0.8, 'dividend_yield': 0.1}
+207.9143281318877 %;{'roe': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+375.15825653259316 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+282.9714939882899 %;{'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.3}
+294.98407835315123 %;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+360.21625471242754 %;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+212.07964098097972 %;{'roe': 0.6, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+254.1009805383076 %;{'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.7}
+206.1117858201486 %;{'roe': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.4}
+349.9244551941045 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+292.72707521067105 %;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+393.440721963358 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+310.58016332207706 %;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+279.0275756637629 %;{'roe': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+235.98059917084547 %;{'roe': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+267.7787023621101 %;{'fcfy': 0.2, 'roic_wacc': 0.6, 'dividend_yield': 0.2}
+334.51276615149277 %;{'roe': 0.5, 'fcfy': 0.3, 'dividend_yield': 0.2}
+323.5633098732592 %;{'fcfy': 0.3, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+344.94326011890604 %;{'fcfy': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+293.1235093022229 %;{'roe': 0.3, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+244.96067998909302 %;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+265.0804794614305 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+281.55779481203166 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+305.9569322820541 %;{'roe': 0.1, 'fcfy': 0.7, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+386.26082027046033 %;{'roe': 0.1, 'fcfy': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+285.9633974529979 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+435.9974400504135 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+289.26615520067935 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+285.6037675170034 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+265.6022502537836 %;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+361.87521209139516 %;{'fcfy': 0.7, 'roic_wacc': 0.3}
+241.3653910662027 %;{'revenue_growth': 0.3, 'dividend_yield': 0.7}
+413.09752485248003 %;{'fcfy': 0.6, 'revenue_growth': 0.4}
+523.0499010900056 %;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.6}
+325.60999358970264 %;{'roe': 0.4, 'fcfy': 0.6}
+203.0254349403287 %;{'roe': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.6}
+254.89932695312126 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+334.732215946224 %;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+382.5607204018349 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+275.9010451198081 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+341.55060500485206 %;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+286.46967007005253 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.5}
+480.1338968327226 %;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.5}
+351.1215694600706 %;{'roe': 0.4, 'fcfy': 0.1, 'dividend_yield': 0.5}
+357.0439519816568 %;{'roe': 0.9, 'fcfy': 0.1}
+259.916368343612 %;{'roic_wacc': 0.4, 'dividend_yield': 0.6}
+266.61265450450315 %;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+333.31881442065423 %;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+327.48669719745305 %;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+271.085112923976 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+251.2949916991135 %;{'roe': 0.3, 'fcfy': 0.6, 'roic_wacc': 0.1}
+381.2092749015632 %;{'roe': 0.6, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+211.5722204758858 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+309.76629271599404 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+274.61579427828775 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+312.01367458274234 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+280.2403341300304 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+373.0315772331281 %;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+420.3627798586213 %;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+272.3577946068906 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+218.5134274333378 %;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+309.32881557696135 %;{'roe': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.3}
+286.5785353929032 %;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+263.2088212223158 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+250.3480146230059 %;{'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.6}
+324.3471064789334 %;{'fcfy': 0.3, 'dividend_yield': 0.7}
+315.03075588113126 %;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+384.2247841180491 %;{'roe': 0.1, 'fcfy': 0.8, 'roic_wacc': 0.1}
+283.401402853434 %;{'roe': 0.7, 'dividend_yield': 0.3}
+463.56329483081396 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.7}
+348.4153379731374 %;{'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+283.9580776690912 %;{'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+426.11506719952274 %;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+405.0422779212533 %;{'roe': 0.7, 'fcfy': 0.2, 'revenue_growth': 0.1}
+255.70274452536682 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+528.8393014916285 %;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.5}
+311.77062042632053 %;{'roe': 0.2, 'fcfy': 0.3, 'dividend_yield': 0.5}
+359.73787443131044 %;{'roe': 0.3, 'fcfy': 0.5, 'revenue_growth': 0.2}
+308.6468265526122 %;{'roe': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+291.1531486614257 %;{'roe': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+232.47957579832064 %;{'roe': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+327.38340062514783 %;{'fcfy': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+299.26254987414615 %;{'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+305.66395880196114 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+338.2142369656249 %;{'roe': 0.5, 'fcfy': 0.4, 'dividend_yield': 0.1}
+309.51422698028284 %;{'fcfy': 0.4, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+377.0996371889454 %;{'fcfy': 0.4, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+272.9605589422081 %;{'roe': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+331.25326163035317 %;{'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+243.47694553109957 %;{'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+298.33352759707907 %;{'fcfy': 0.9, 'dividend_yield': 0.1}
+417.3597793377728 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.7}
+267.5707519990726 %;{'revenue_growth': 0.1, 'dividend_yield': 0.9}
+363.2749410102284 %;{'fcfy': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+244.9606799890931 %;{'roe': 0.6, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+602.0032557523355 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+283.99366014290894 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+387.0981420931055 %;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+275.65030658587364 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+239.89306148680316 %;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+693.2556039177429 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.7}
+318.86644840137103 %;{'fcfy': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.2}
+367.9160042853171 %;{'roic_wacc': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.2}
+272.22240684384695 %;{'fcfy': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+307.5841317346274 %;{'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+276.7768073284506 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+478.9634276899335 %;{'roic_wacc': 0.2, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+264.18903388164773 %;{'roe': 0.6, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+294.6673442126247 %;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+350.5120389053657 %;{'roic_wacc': 0.7, 'revenue_growth': 0.3}
+408.5347526313642 %;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+302.83053846969796 %;{'roic_wacc': 0.7, 'dividend_yield': 0.3}
+167.02612784091687 %;{'revenue_growth': 0.7, 'dividend_yield': 0.3}
+288.1618383752994 %;{'roe': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.8}
+329.7938817004218 %;{'roe': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.8}
+355.2614435138313 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+299.24029856346897 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+325.99628333696654 %;{'roe': 0.2, 'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+335.53938442163485 %;{'roe': 0.4, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+310.50692681411334 %;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+432.8411921174178 %;{'roe': 0.1, 'fcfy': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+361.5801469705483 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+262.29992072486124 %;{'roe': 0.4, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+228.85893515837293 %;{'roe': 0.7, 'roic_wacc': 0.3}
+308.75426077108267 %;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+313.1279883186788 %;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+256.09191083543226 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+292.1959339950332 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+256.7798461704386 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+266.12322898354677 %;{'roe': 0.3, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+261.5796787950571 %;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+328.8543473931355 %;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+207.64136928289426 %;{'roe': 0.4, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+315.63044425955155 %;{'roe': 0.3, 'fcfy': 0.3, 'dividend_yield': 0.4}
+412.8141106835257 %;{'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+353.2441166916871 %;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.4}
+351.23064647154854 %;{'roe': 0.1, 'fcfy': 0.7, 'roic_wacc': 0.2}
+434.2779521832439 %;{'roe': 0.1, 'fcfy': 0.7, 'revenue_growth': 0.2}
+216.7968792885905 %;{'roe': 0.7, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+322.35300649276815 %;{'roe': 0.2, 'fcfy': 0.7, 'roic_wacc': 0.1}
+291.7836456834567 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+277.2155673706858 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+314.40276468676404 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+264.9235493114293 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+275.56481626297875 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+232.22687477204923 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+295.7962902635573 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+256.4150068237961 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+263.7661823031885 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+314.0088097373078 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+277.0092782194486 %;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+347.79576287629436 %;{'roe': 0.5, 'fcfy': 0.5}
+214.7998705603078 %;{'roe': 0.5, 'roic_wacc': 0.5}
+266.12811049253054 %;{'roe': 0.5, 'revenue_growth': 0.5}
+251.31939914047842 %;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+180.12505258826928 %;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+319.00193741988625 %;{'roe': 0.6, 'fcfy': 0.4}
+369.7933498733638 %;{'roe': 0.3, 'fcfy': 0.7}
+290.6556847297656 %;{'roe': 0.1, 'roic_wacc': 0.8, 'dividend_yield': 0.1}
+260.1927313491551 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.8}
+319.4513958236388 %;{'roe': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+268.31997032879474 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+274.68437899798 %;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+194.28343038474915 %;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+265.48930659588143 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+325.91128949897313 %;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+299.0828550745171 %;{'roe': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+399.3771236207771 %;{'roe': 0.6, 'fcfy': 0.3, 'revenue_growth': 0.1}
+281.1049589307477 %;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+312.1721981275021 %;{'roe': 0.5, 'fcfy': 0.4, 'revenue_growth': 0.1}
+297.03477477139637 %;{'fcfy': 0.4, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+363.86489760874696 %;{'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+363.97863091659383 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+408.68511789941124 %;{'fcfy': 0.9, 'revenue_growth': 0.1}
+259.2540872772516 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+337.17004411976916 %;{'fcfy': 0.1, 'roic_wacc': 0.8, 'revenue_growth': 0.1}
+250.68541668501325 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+284.64451170791705 %;{'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.8}
+281.6495873971441 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.3}
+442.24990068205034 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+424.5708899914927 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+281.2118142588765 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+301.2395828776035 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+312.7346891057196 %;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+358.02716733822183 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+263.5551084645511 %;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+292.67883363904514 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+258.4560579495904 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.5}
+537.3584730234143 %;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.5}
+291.3746456812186 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+304.99069937915004 %;{'roe': 0.3, 'fcfy': 0.2, 'dividend_yield': 0.5}
+382.05014947548676 %;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.4}
+365.5742154180804 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+271.1238219287431 %;{'roe': 0.4, 'fcfy': 0.4, 'roic_wacc': 0.2}
+280.1095366790103 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+260.07900111327353 %;{'roe': 0.7, 'fcfy': 0.2, 'roic_wacc': 0.1}
+305.16736514741626 %;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+316.38643428555946 %;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+400.2167625944045 %;{'fcfy': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+284.9249174934823 %;{'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+314.70060494332125 %;{'roe': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+352.8654469841415 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+383.6687470975133 %;{'fcfy': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+414.2345486314887 %;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+262.0142333358449 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+345.83348285188987 %;{'fcfy': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+277.39639348282134 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+249.20660034260402 %;{'roe': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+285.432232152525 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+295.61867739316995 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+276.53723776186575 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+313.10034731485115 %;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+274.24065222163955 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+420.6613521444249 %;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+286.8964119395234 %;{'fcfy': 0.2, 'roic_wacc': 0.7, 'dividend_yield': 0.1}
+286.8564950780119 %;{'roe': 0.5, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+412.4344502743447 %;{'fcfy': 0.5, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+317.6442793426929 %;{'roic_wacc': 0.5, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+507.8803977748813 %;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.4}
+315.0978546583152 %;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.4}
+264.0328909710768 %;{'roe': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.5}
+319.1810308251017 %;{'roe': 0.1, 'revenue_growth': 0.9}
+276.93633385316065 %;{'fcfy': 0.3, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+405.10147224661165 %;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+295.901122755201 %;{'roe': 0.4, 'fcfy': 0.4, 'dividend_yield': 0.2}
+267.72261185402925 %;{'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.4}
+328.11391235601934 %;{'roe': 0.4, 'fcfy': 0.5, 'dividend_yield': 0.1}
+218.45019107801863 %;{'roe': 0.4, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+219.36672277285277 %;{'roe': 0.4, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+211.4370092202679 %;{'roe': 0.9, 'dividend_yield': 0.1}
+383.80178925327897 %;{'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+336.1655783571564 %;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+544.4226079358018 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.7}
+270.4058831094549 %;{'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.6}
+277.1164576519556 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+287.9915334939892 %;{'roe': 0.7, 'fcfy': 0.1, 'dividend_yield': 0.2}
+264.18500729573884 %;{'roe': 0.6, 'fcfy': 0.1, 'dividend_yield': 0.3}
+228.9426081073767 %;{'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+227.11382430143817 %;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+730.1568586203653 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.8}
+281.6628359026452 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+264.67194991855706 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+481.9280539416493 %;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+250.1149784827103 %;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+308.9200947168998 %;{'roe': 0.6, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+382.4313060308275 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+253.58028516943443 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+350.124514693687 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+295.42805592685016 %;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+360.2588331098123 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+298.02555303745805 %;{'roe': 0.1, 'roic_wacc': 0.7, 'dividend_yield': 0.2}
+301.4478987059214 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+266.6288967573545 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+468.18468403129714 %;{'roic_wacc': 0.2, 'revenue_growth': 0.8}
+340.44682062160473 %;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+351.3754648181668 %;{'fcfy': 0.8, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+318.5626919040876 %;{'roe': 0.4, 'fcfy': 0.2, 'dividend_yield': 0.4}
+292.63214016881784 %;{'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+297.9056733160457 %;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+300.57496094729845 %;{'roe': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+306.805255216676 %;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+273.00220406809945 %;{'roe': 0.7, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+306.49054632333934 %;{'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+236.06351044884892 %;{'roe': 0.8, 'dividend_yield': 0.2}
+451.0146595061503 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+366.95645075517183 %;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+269.44554798211766 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+345.79895510527246 %;{'fcfy': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+411.5857725639725 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+259.06100384814926 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+319.2196214673489 %;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+390.2617887807846 %;{'fcfy': 0.8, 'revenue_growth': 0.2}
+335.10158966688925 %;{'roe': 0.7, 'fcfy': 0.3}
+308.90247782384745 %;{'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+256.92145875225276 %;{'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+262.08044159625604 %;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+234.3204775859444 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+259.9810056940487 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+251.4880468521373 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+286.5287154521456 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+283.9134322909562 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+372.91898426632815 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+532.3182352605457 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+273.43165761578365 %;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+318.8463931370344 %;{'roe': 0.5, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+439.4235359869386 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+262.9255139149831 %;{'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+285.9040007177412 %;{'roe': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+293.01894702046434 %;{'fcfy': 0.1, 'roic_wacc': 0.7, 'dividend_yield': 0.2}
+313.5484280738199 %;{'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+263.36432713817567 %;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.3}
+410.70615480266275 %;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.5}
+248.36995594966012 %;{'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.5}
+241.59209549676314 %;{'roe': 0.6, 'revenue_growth': 0.4}
+488.4784906577731 %;{'roic_wacc': 0.3, 'revenue_growth': 0.7}
+287.41340073993655 %;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+277.49154535844934 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.4}
+434.0922072943509 %;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.5}
+237.17922523561592 %;{'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.5}
+376.84957576248746 %;{'fcfy': 0.1, 'roic_wacc': 0.9}
+256.5594990553323 %;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+240.61580962224633 %;{'roe': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+355.3936024185652 %;{'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+202.41449778620714 %;{'roe': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.6}
+372.46353464308856 %;{'roe': 0.2, 'fcfy': 0.5, 'revenue_growth': 0.3}
+309.75607900715164 %;{'roe': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.3}
+231.54961997860224 %;{'roe': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+268.4947888924251 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+251.62599794045218 %;{'roe': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+325.70904189785483 %;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+333.3705567347204 %;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+409.71246633418065 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+334.5697901781113 %;{'fcfy': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+313.69378090352427 %;{'roe': 0.5, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+278.79691161019326 %;{'fcfy': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+330.8094924522742 %;{'roe': 0.6, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+245.82275046480652 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+482.8414812712239 %;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+277.13912845401705 %;{'roe': 0.5, 'fcfy': 0.3, 'roic_wacc': 0.2}
+392.0364291704983 %;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+263.6869595830676 %;{'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+260.50218351255995 %;{'fcfy': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.3}
+324.97271521180767 %;{'fcfy': 0.2, 'dividend_yield': 0.8}
+303.7806419421246 %;{'roe': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+382.18306105578154 %;{'roe': 0.2, 'roic_wacc': 0.8}
+281.78371907613064 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+429.13225823013573 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+315.8997266534595 %;{'roe': 0.4, 'fcfy': 0.5, 'revenue_growth': 0.1}
+262.1294573291127 %;{'roe': 0.4, 'roic_wacc': 0.5, 'revenue_growth': 0.1}
+236.91109913952525 %;{'roe': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+296.98651231411645 %;{'roe': 0.9, 'revenue_growth': 0.1}
+273.9207652971472 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+268.7349582231214 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+266.21583951598905 %;{'roe': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.2}
+244.2997278809729 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.6}
+258.21674108429227 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+285.9530831611999 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+331.1501733849476 %;{'roe': 0.2, 'roic_wacc': 0.7, 'revenue_growth': 0.1}
+264.84381293680326 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+286.13227583707504 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+300.84102141715823 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+294.00103538317086 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+491.04144952612245 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+272.08172187628617 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.1}
+576.2845064586584 %;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+319.7202177173013 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+276.5019724829211 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+289.513200909789 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+339.4088538761649 %;{'roe': 0.7, 'fcfy': 0.2, 'dividend_yield': 0.1}
+341.1840859742084 %;{'fcfy': 0.6, 'roic_wacc': 0.4}
+305.8694972112538 %;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+376.9363046358183 %;{'roe': 0.2, 'fcfy': 0.8}
+260.81169213117505 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+265.0513051157715 %;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+315.8841326742199 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+292.57468834991664 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+199.1969207087629 %;{'roe': 0.1, 'revenue_growth': 0.8, 'dividend_yield': 0.1}
+323.876212472604 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+251.3332877819844 %;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+360.459277484503 %;{'fcfy': 0.7, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+363.36037638253475 %;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+337.02981457716163 %;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+430.3147443108237 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+514.3977392622503 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.7}
+415.6253256648009 %;{'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+254.58360213018426 %;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+267.47107659974574 %;{'roe': 0.2, 'fcfy': 0.6, 'roic_wacc': 0.2}
+363.19223530700924 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+284.34075179472484 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+424.85013751595363 %;{'roic_wacc': 0.1, 'revenue_growth': 0.8, 'dividend_yield': 0.1}
+293.6759205670475 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+247.99377031427517 %;{'roe': 0.3, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+189.64125891714963 %;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+256.9442710558885 %;{'roe': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+268.6018630638583 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+278.00309845221375 %;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+350.66494248218237 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+335.78910005301816 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+359.17399434068324 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+317.97228706219204 %;{'roe': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+222.7164482623627 %;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+376.5641565118811 %;{'roe': 0.6, 'fcfy': 0.2, 'revenue_growth': 0.2}
+331.7833835820764 %;{'roic_wacc': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+253.64667663979841 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+305.89697265073517 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+272.1422419342487 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+430.8640654263142 %;{'roe': 0.3, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+276.0987775047686 %;{'roe': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.7}
+274.394862945478 %;{'roe': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+340.66755125724154 %;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+310.1014183596263 %;{'roe': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+298.3785859157106 %;{'fcfy': 0.4, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+270.97287355705976 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+595.5184786949479 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+262.4320257497951 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+331.922318779882 %;{'roe': 0.8, 'fcfy': 0.2}
+363.6398367016685 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3}
+264.63854253182865 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+301.6327487021627 %;{'roe': 0.3, 'fcfy': 0.4, 'dividend_yield': 0.3}
+304.77712893756035 %;{'roic_wacc': 0.2, 'dividend_yield': 0.8}
+358.4255829835022 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+343.9544657289593 %;{'roe': 0.3, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+280.65339938307477 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.6, 'dividend_yield': 0.2}
+318.2310267392348 %;{'roic_wacc': 0.8, 'dividend_yield': 0.2}
+273.7105975257215 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+271.40377547814023 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+278.9470112571001 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+315.15345503005 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+430.21539065832013 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+314.7483914199439 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+284.44651394350547 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+290.482022348672 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+229.32785301554594 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+271.71303923609037 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+273.90669359632557 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+263.8515724799355 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.4}
+372.81774341401956 %;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.5}
+203.00207661989882 %;{'roe': 0.1, 'roic_wacc': 0.4, 'dividend_yield': 0.5}
+383.47382095787407 %;{'roe': 0.1, 'roic_wacc': 0.9}
+192.70496032158442 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+397.72968838070693 %;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+288.8390462920347 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+274.8646479472408 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+256.34745051665396 %;{'roe': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.7}
+300.23328806246593 %;{'roe': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.7}
+286.5795756257316 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+363.78112343193766 %;{'fcfy': 0.6, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+333.02879631187477 %;{'roic_wacc': 0.8, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+276.6932091719977 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+210.89373680235255 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+290.8548052675683 %;{'roe': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+269.0701434594697 %;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.3}
+268.69277655271804 %;{'roe': 0.7, 'fcfy': 0.1, 'roic_wacc': 0.2}
+267.94613042820504 %;{'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.7}
+246.43224720170042 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+285.25578304417604 %;{'roe': 0.5, 'fcfy': 0.4, 'roic_wacc': 0.1}
+428.7167937451402 %;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+362.05495018250315 %;{'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+353.984285406369 %;{'fcfy': 0.9, 'roic_wacc': 0.1}
+283.57969216585286 %;{'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+368.37962155701166 %;{'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+344.69855240305753 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.3}
+267.1209539993264 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+246.9088331334811 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.6}
+278.76186158919575 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+334.72682249678894 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+365.64572795733204 %;{'fcfy': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+284.2162294422929 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+439.52409969602985 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.5}
+242.05919360007275 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.5}
+273.02242841490556 %;{'roe': 0.8, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+276.67788528692313 %;{'roe': 0.5, 'fcfy': 0.1, 'dividend_yield': 0.4}
+333.7835732470368 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+283.6056492836526 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.5}
+334.0946147603262 %;{'roic_wacc': 0.8, 'revenue_growth': 0.2}
+251.4706597871883 %;{'roe': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+254.6430510410647 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+321.32146773590415 %;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+340.4955540103889 %;{'fcfy': 0.2, 'roic_wacc': 0.7, 'revenue_growth': 0.1}
+366.954825322798 %;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+315.4487349431357 %;{'roe': 0.2, 'fcfy': 0.5, 'dividend_yield': 0.3}
+258.37957638943874 %;{'roe': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.3}
+226.59268547938626 %;{'roe': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+443.5040529585477 %;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.4}
+302.3023090633037 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+386.0329298144383 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+342.83386228152006 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+424.8451610436244 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+341.79162505399347 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.1}
+308.6179096889407 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+287.8816482726905 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+405.6003638349305 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.7}
+306.9133864838199 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+245.22110988990656 %;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+678.5209636390554 %;{'fcfy': 0.2, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+378.7881286039719 %;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+273.232689031869 %;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+381.7997697403639 %;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+370.0046554854677 %;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+347.7860392047515 %;{'fcfy': 0.7, 'dividend_yield': 0.3}
+277.5043822420588 %;{'roe': 0.2, 'roic_wacc': 0.7, 'dividend_yield': 0.1}
+340.9357362611278 %;{'roe': 0.2, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+261.9200239452213 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+407.96108741304255 %;{'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.3}
+256.5280717206505 %;{'roe': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+223.41835733049837 %;{'roe': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+304.5556428092406 %;{'fcfy': 0.3, 'roic_wacc': 0.7}
+315.71828389772725 %;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.4}
+487.03700544860015 %;{'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.4}
+234.32649277897247 %;{'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.5}
+697.2918697227263 %;{'fcfy': 0.1, 'revenue_growth': 0.9}
+733.5786525683495 %;{'fcfy': 0.3, 'revenue_growth': 0.7}
+214.37308418372152 %;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+354.8980524934927 %;{'fcfy': 0.7, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+261.25068706509904 %;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.3}
+352.4991457151774 %;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.5}
+234.20488824766227 %;{'roe': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.5}
+409.7498896514684 %;{'roe': 0.3, 'fcfy': 0.4, 'revenue_growth': 0.3}
+258.5103873212509 %;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+274.5113848624065 %;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+279.90527061647055 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.6, 'dividend_yield': 0.1}
+511.724836535796 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+288.8741209455079 %;{'roe': 0.8, 'fcfy': 0.1, 'dividend_yield': 0.1}
+264.4144440770773 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+224.94892505287734 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+267.374295297545 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+226.77444317472296 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+393.45370269928236 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.4}
+232.58769163587664 %;{'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+258.85813670426717 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+279.26710489934095 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.4}
+250.3209865375164 %;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+146.96261081033865 %;{'revenue_growth': 0.8, 'dividend_yield': 0.2}
+390.22350093555514 %;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+328.5907389590218 %;{'fcfy': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+371.5019515056112 %;{'roe': 0.4, 'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+430.46057199268677 %;{'roic_wacc': 0.3, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+271.49644711728524 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+199.50082500659286 %;{'roe': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+259.8551484687565 %;{'roe': 0.6, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+271.1241777846415 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+300.48622359115546 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+421.8863245452242 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+307.238111824944 %;{'roe': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+252.4448185252119 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+200.476089882317 %;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+256.62282899245355 %;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+321.77015722717675 %;{'roe': 0.4, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+360.92194156586385 %;{'fcfy': 0.8, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+339.98364489980054 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+359.482908930792 %;{'roe': 0.6, 'fcfy': 0.1, 'revenue_growth': 0.3}
+215.54873708903534 %;{'roe': 0.5, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+316.47054184902333 %;{'fcfy': 0.5, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+353.10736867635484 %;{'roic_wacc': 0.4, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+690.1678587148916 %;{'fcfy': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.2}
+347.2603171058555 %;{'roic_wacc': 0.9, 'dividend_yield': 0.1}
+330.30988049602945 %;{'roe': 0.5, 'fcfy': 0.2, 'dividend_yield': 0.3}
+316.72751659921784 %;{'fcfy': 0.2, 'roic_wacc': 0.5, 'dividend_yield': 0.3}
+258.2867909689929 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+341.2406857521316 %;{'fcfy': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+282.05261471516485 %;{'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+352.01083867851037 %;{'roe': 0.2, 'fcfy': 0.7, 'dividend_yield': 0.1}
+288.7516189366373 %;{'roe': 0.5, 'dividend_yield': 0.5}
+313.86997415575337 %;{'fcfy': 0.5, 'roic_wacc': 0.5}
+487.56313422230005 %;{'fcfy': 0.5, 'revenue_growth': 0.5}
+365.958308612292 %;{'fcfy': 0.5, 'dividend_yield': 0.5}
+438.38889243010993 %;{'roic_wacc': 0.5, 'revenue_growth': 0.5}
+274.2192946773173 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.4}
+257.1201162923126 %;{'roic_wacc': 0.5, 'dividend_yield': 0.5}
+211.5381521967416 %;{'revenue_growth': 0.5, 'dividend_yield': 0.5}
+295.8957815665398 %;{'roe': 0.4, 'fcfy': 0.3, 'dividend_yield': 0.3}
+259.01219500410406 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+338.282284502037 %;{'fcfy': 0.7, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+365.43507611251414 %;{'fcfy': 0.6, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+272.7917573441193 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+435.33440620003336 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+293.5882303838283 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+276.93608202959183 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+269.7427900733358 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+379.94536919733673 %;{'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+251.98871409593352 %;{'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.8}
+329.99882685396574 %;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+275.29184761562715 %;{'roe': 0.2, 'fcfy': 0.1, 'dividend_yield': 0.7}
+248.91005689506963 %;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+200.13915369851097 %;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+266.325333568907 %;{'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.4}
+303.8040506886939 %;{'roe': 0.1, 'roic_wacc': 0.7, 'revenue_growth': 0.2}
+264.8498320450724 %;{'roe': 0.4, 'fcfy': 0.5, 'roic_wacc': 0.1}
+521.716864665275 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.8}
+288.70274804164404 %;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.5}
+233.72763116993616 %;{'roe': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.5}
+232.97399064229162 %;{'roe': 0.9, 'roic_wacc': 0.1}
+256.52587490094095 %;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+397.1489984953277 %;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+401.594860843593 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.7}
+276.4369018677355 %;{'fcfy': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.4}
+297.8070790436532 %;{'fcfy': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.4}
+316.4195797263987 %;{'fcfy': 0.1, 'dividend_yield': 0.9}
+287.68539068994477 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+319.2055605227593 %;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+258.3214698631427 %;{'roe': 0.3, 'fcfy': 0.5, 'roic_wacc': 0.2}
+307.7195130232879 %;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+240.68230281611523 %;{'roe': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+338.7631507601401 %;{'roe': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+371.96452810123566 %;{'fcfy': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+184.0402379223319 %;{'roe': 0.7, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+260.1319711371686 %;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+278.07894799805666 %;{'roe': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+369.60429269398134 %;{'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+263.0502008378798 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+257.3846175087602 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+357.95316783216606 %;{'roe': 0.1, 'fcfy': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+263.5551084645511 %;{'roe': 0.7, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+336.1525302227275 %;{'roe': 0.7, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+284.7838551558496 %;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.1}
+369.71877974095264 %;{'roe': 0.5, 'fcfy': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+415.0850716482823 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+380.0674395576187 %;{'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+256.6828122377644 %;{'roe': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+318.48834479050765 %;{'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+247.49778128094974 %;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+470.23731514856087 %;{'fcfy': 0.3, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+308.44649891376116 %;{'roe': 0.2, 'fcfy': 0.4, 'dividend_yield': 0.4}
+514.0024688481627 %;{'roic_wacc': 0.4, 'revenue_growth': 0.6}
+330.30472633587607 %;{'roic_wacc': 0.7, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+271.61737623572606 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+371.87493961914697 %;{'fcfy': 0.7, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+448.7416349775242 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+369.3729901165376 %;{'fcfy': 0.8, 'dividend_yield': 0.2}
+366.11955643295636 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.7}
+289.6887882683495 %;{'roe': 0.5, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+438.0785801087294 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+233.77320784764345 %;{'roe': 0.6, 'roic_wacc': 0.4}
+362.67860094876585 %;{'fcfy': 0.4, 'dividend_yield': 0.6}
+277.98800665420475 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+346.83114870537634 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+333.09793670057974 %;{'fcfy': 0.3, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+315.7180948572349 %;{'roe': 0.3, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+281.3023728383008 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+247.23833816513405 %;{'roe': 0.8, 'fcfy': 0.1, 'roic_wacc': 0.1}
+277.88977194598436 %;{'roe': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+348.75699371329046 %;{'fcfy': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.2}
+264.88398648541835 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+189.65723997960464 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+364.1400321929635 %;{'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+356.3756138091005 %;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+408.66554369031604 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.8}
+269.7536953051185 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+291.64909405512384 %;{'roe': 0.1, 'roic_wacc': 0.8, 'revenue_growth': 0.1}
+304.3225144089517 %;{'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+296.8425472901332 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+270.58318671513655 %;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+259.20159422768586 %;{'roe': 0.6, 'fcfy': 0.2, 'roic_wacc': 0.2}
+255.36062445582127 %;{'roe': 0.2, 'revenue_growth': 0.8}
+326.38968875902697 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+263.38016279708836 %;{'roe': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+272.0092185492644 %;{'roe': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+372.9346035150611 %;{'roe': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+351.05500867159225 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+257.09994191183483 %;{'roe': 0.4, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+383.6997745780907 %;{'fcfy': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+269.07475923376256 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+252.31337137300787 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+288.6874049970482 %;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+399.8521354978764 %;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+430.07417862902395 %;{'roe': 0.1, 'fcfy': 0.6, 'revenue_growth': 0.3}
+305.6186973316713 %;{'roe': 0.2, 'fcfy': 0.6, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+317.9981242301134 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+288.42478673696667 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+406.554833196625 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5}
+257.79791480387286 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.5}
+350.6156040523526 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2}
+265.5350851870769 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+261.30544036861795 %;{'roe': 0.7, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+296.81061647782394 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+259.21985679026784 %;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.2}
+261.8334079489623 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+285.1791385882252 %;{'roe': 0.2, 'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+283.3595066506696 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.7}
+257.7062523193895 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.4}
+233.38846239700985 %;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+348.56901717259694 %;{'fcfy': 0.6, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+293.5018279539586 %;{'roe': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+280.12625582036804 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.2}
+369.04036913395277 %;{'roe': 0.2, 'fcfy': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+392.26822272998965 %;{'roe': 0.3, 'fcfy': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+197.07547870444952 %;{'roe': 0.6, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+290.4631303328871 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+263.1763326348407 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+313.9993542250529 %;{'roe': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+343.74169836626703 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.8}
+299.8452799501583 %;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+271.3010306949185 %;{'roe': 0.6, 'fcfy': 0.2, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+399.8579827792129 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.6}
+296.80367913066505 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+179.84517703531333 %;{'roe': 0.5, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+337.6768374665548 %;{'fcfy': 0.5, 'roic_wacc': 0.3, 'dividend_yield': 0.2}
+262.076021766891 %;{'roic_wacc': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+265.16886433804905 %;{'roe': 0.8, 'revenue_growth': 0.2}
+260.594737920758 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.6}
+567.2748094955238 %;{'roe': 0.2, 'fcfy': 0.2, 'revenue_growth': 0.6}
+368.7455998527157 %;{'roe': 0.7, 'fcfy': 0.1, 'revenue_growth': 0.2}
+250.4787546911585 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.7}
+237.99477158477492 %;{'roe': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+259.30343270579095 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+393.88021975735717 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+273.0516335149885 %;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.3}
+337.74285056299595 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+341.38840478697443 %;{'roe': 0.8, 'fcfy': 0.1, 'revenue_growth': 0.1}
+487.53520272253485 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+298.90945229019144 %;{'roe': 0.2, 'fcfy': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+259.1558260240128 %;{'roe': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+334.16363657796967 %;{'fcfy': 0.5, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+431.5415181737319 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+360.00104376498206 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+261.19976397671036 %;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+321.3648302876038 %;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+371.62900193329784 %;{'roe': 0.1, 'fcfy': 0.8, 'dividend_yield': 0.1}
+247.10488592148135 %;{'roe': 0.7, 'revenue_growth': 0.3}
+232.6764062073301 %;{'roe': 0.6, 'dividend_yield': 0.4}
+267.1654787978473 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.3}
+350.79349824239034 %;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+272.9114446133779 %;{'roe': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+241.60875334100766 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+306.1155567138654 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+362.66544835304694 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+288.86858473264425 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+284.11120715241697 %;{'roe': 0.3, 'fcfy': 0.6, 'dividend_yield': 0.1}
+380.2042935952315 %;{'roe': 0.4, 'fcfy': 0.4, 'revenue_growth': 0.2}
+300.55871881801124 %;{'roe': 0.1, 'fcfy': 0.3, 'dividend_yield': 0.6}
+345.2809133169085 %;{'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.6}
+347.3154897881385 %;{'fcfy': 0.6, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+280.6820085684584 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+263.450805114685 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+357.93940422545785 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+407.57865626293557 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+302.97716974869235 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+318.16181460525036 %;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+347.7202459530943 %;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+300.10575057714857 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+287.2278502684142 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+262.40827056072834 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+269.0942483464778 %;{'roe': 0.6, 'fcfy': 0.1, 'roic_wacc': 0.3}
+291.36326777231665 %;{'roic_wacc': 0.3, 'dividend_yield': 0.7}
+273.32806779801774 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+409.2051453027758 %;{'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+270.97828457932025 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.3}
+254.23695920890768 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+307.3756548135603 %;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+283.4405028365392 %;{'roe': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.6}
+414.96774850657766 %;{'roe': 0.2, 'fcfy': 0.4, 'revenue_growth': 0.4}
+347.8747629984459 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.7}
+429.47317141089405 %;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+348.3573764301623 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.3}
+283.4139016127147 %;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+315.0781399243291 %;{'revenue_growth': 0.4, 'dividend_yield': 0.6}
+383.29556823571744 %;{'fcfy': 0.6, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+294.70009680470184 %;{'roic_wacc': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+309.05301622120584 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+287.1126974802439 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+387.4544257641208 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+256.3443377508444 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+316.4327587985835 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1}
+270.7175591507263 %;{'roe': 0.5, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+380.61203898877966 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+262.0592991299736 %;{'roe': 0.5, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+273.1043710548826 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+339.86140471487715 %;{'roe': 0.5, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+177.35872080357927 %;{'roe': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.2}
+373.85517794239365 %;{'roe': 0.4, 'dividend_yield': 0.6}
+362.57574827930296 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+269.8496024441585 %;{'roe': 0.2, 'roic_wacc': 0.6, 'dividend_yield': 0.2}
+282.7600678480304 %;{'roe': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+296.2878548686522 %;{'roe': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+435.1443657284336 %;{'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.6}
+269.8077371625662 %;{'roe': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+265.6435940251846 %;{'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+299.72976029247684 %;{'roe': 0.3, 'roic_wacc': 0.7}
+336.12943192138107 %;{'roe': 0.3, 'revenue_growth': 0.7}
+236.01372212271286 %;{'roe': 0.3, 'roic_wacc': 0.1, 'dividend_yield': 0.6}
+288.01910118947944 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.5}
+515.5823130981319 %;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.5}
+349.0723249572227 %;{'roe': 0.1, 'fcfy': 0.4, 'dividend_yield': 0.5}
+369.37652576507435 %;{'roe': 0.1, 'fcfy': 0.9}
+408.3951731539988 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.4}
+358.89845881270304 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+307.1975279355163 %;{'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+334.29433184357686 %;{'roe': 0.1, 'fcfy': 0.5, 'dividend_yield': 0.4}
+277.5571573463338 %;{'roe': 0.1, 'roic_wacc': 0.5, 'dividend_yield': 0.4}
+254.62963105964295 %;{'roe': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.4}
+334.1222868054391 %;{'roe': 0.1, 'dividend_yield': 0.9}
+360.5246821033237 %;{'roe': 0.2, 'dividend_yield': 0.8}
+360.5072697608687 %;{'fcfy': 0.8, 'roic_wacc': 0.2}
+265.5022391226614 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+268.4089408905585 %;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+245.5655929553639 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+244.56714542700277 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+245.300648412152 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+265.05507448627475 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+289.26679789022006 %;{'roe': 0.1, 'fcfy': 0.1, 'dividend_yield': 0.8}
+256.69579416141545 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3}
+268.0950518634763 %;{'roe': 0.2, 'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1}
+209.4021870962199 %;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+199.38913441446874 %;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+317.322640599039 %;{'fcfy': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.7}
+254.3026029605532 %;{'roe': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+374.05466511156715 %;{'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+283.52483532963157 %;{'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+356.17526376211185 %;{'fcfy': 0.4, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+338.5736743771383 %;{'roe': 0.6, 'fcfy': 0.3, 'dividend_yield': 0.1}
+216.03848627581428 %;{'roe': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+227.64761141636924 %;{'roe': 0.8, 'roic_wacc': 0.1, 'revenue_growth': 0.1}
+302.0142066347273 %;{'roic_wacc': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+279.1655488508483 %;{'roe': 0.3, 'fcfy': 0.1, 'dividend_yield': 0.6}
+376.13766196039535 %;{'roic_wacc': 0.6, 'revenue_growth': 0.4}
+302.06117515493804 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+293.1453267218336 %;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+237.09288070467957 %;{'fcfy': 0.1, 'roic_wacc': 0.3, 'dividend_yield': 0.6}
+359.1926798368993 %;{'fcfy': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.2}
+352.6207188219162 %;{'fcfy': 0.7, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+269.85795302876994 %;{'roe': 0.6, 'fcfy': 0.3, 'roic_wacc': 0.1}
+351.6141579959072 %;{'roe': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.6}
+258.08785244815084 %;{'roe': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+301.19217809178804 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+352.8041857359516 %;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+243.25171355441785 %;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+264.31348380991085 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+313.14077327670924 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.3}
+277.5038414557815 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+273.6718626480032 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+324.66643276903665 %;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+363.44184728759626 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+316.6216952168022 %;{'roe': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.3}
+321.4694356184186 %;{'fcfy': 0.4, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+189.91320201553862 %;{'roe': 0.8, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+369.6750783761129 %;{'fcfy': 0.2, 'roic_wacc': 0.6, 'revenue_growth': 0.2}
+385.2325755600985 %;{'roe': 0.5, 'fcfy': 0.3, 'revenue_growth': 0.2}
+292.12710362120504 %;{'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+385.81272993593825 %;{'roe': 0.1, 'fcfy': 0.6, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+222.38361986104468 %;{'roe': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+279.19403495891345 %;{'fcfy': 0.2, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+349.44534664163587 %;{'roe': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.6}
+277.4029931930111 %;{'roe': 0.3, 'fcfy': 0.5, 'dividend_yield': 0.2}
+284.5517577604121 %;{'roe': 0.3, 'roic_wacc': 0.5, 'dividend_yield': 0.2}
+261.77781571725 %;{'roe': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.2}
+292.57936033167465 %;{'roe': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+274.82852941086514 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+354.2957877469827 %;{'fcfy': 0.2, 'roic_wacc': 0.8}
+373.3075969870515 %;{'roic_wacc': 0.6, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+284.00876682193507 %;{'roic_wacc': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.2}
+343.525308606781 %;{'roe': 0.6, 'fcfy': 0.2, 'dividend_yield': 0.2}
+297.9919147308803 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+261.23529857749764 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.4}
+337.8926553853308 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+298.0496553911462 %;{'roe': 0.1, 'fcfy': 0.6, 'roic_wacc': 0.3}
+197.83713334201335 %;{'roe': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+342.45259877478685 %;{'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+257.3444986416691 %;{'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.4}
+310.515173007252 %;{'roic_wacc': 0.1, 'dividend_yield': 0.9}
+276.93662146398884 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+290.8416753786701 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.2}
+233.59674268300782 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+284.56986864110877 %;{'roe': 0.1, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+375.66101982865126 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+257.98044490512825 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.3}
+279.6446653642494 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+357.7807952004834 %;{'roe': 0.1, 'fcfy': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+277.2695295650878 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+397.35932037092476 %;{'roe': 0.2, 'fcfy': 0.3, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+395.2340703002226 %;{'fcfy': 0.7, 'revenue_growth': 0.3}
+300.7035131715186 %;{'fcfy': 0.4, 'roic_wacc': 0.6}
+274.43033852076223 %;{'roe': 0.3, 'fcfy': 0.3, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+514.2257154691436 %;{'fcfy': 0.4, 'revenue_growth': 0.6}
+237.84901944396643 %;{'roe': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.2}
+282.29013320595425 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.2, 'dividend_yield': 0.2}
+358.04736493689893 %;{'roe': 0.5, 'fcfy': 0.2, 'revenue_growth': 0.3}
+409.03649912567033 %;{'fcfy': 0.2, 'roic_wacc': 0.5, 'revenue_growth': 0.3}
+268.2413115663401 %;{'fcfy': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.5}
+303.95464952560314 %;{'roic_wacc': 0.6, 'dividend_yield': 0.4}
+207.43735851265905 %;{'revenue_growth': 0.6, 'dividend_yield': 0.4}
+382.7888549050889 %;{'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.6}
+419.01880066119406 %;{'roe': 0.3, 'dividend_yield': 0.7}
+276.4393836078493 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+450.16494608888695 %;{'roe': 0.2, 'fcfy': 0.6, 'revenue_growth': 0.2}
+329.8445532433427 %;{'fcfy': 0.8, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+254.4770782795327 %;{'roe': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+433.0200573763327 %;{'roe': 0.1, 'fcfy': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+306.59563569725117 %;{'roe': 0.1, 'roic_wacc': 0.5, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+252.55333230867433 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+282.7381979309516 %;{'roe': 0.4, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+341.9414924508655 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+263.5304891180396 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+266.28158211748655 %;{'roe': 0.1, 'fcfy': 0.5, 'roic_wacc': 0.3, 'dividend_yield': 0.1}
+356.8920623212934 %;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+359.16501184421526 %;{'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+431.29661145436404 %;{'roe': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.6}
+272.06231019830676 %;{'roe': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+375.55921091078164 %;{'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+249.9380222303802 %;{'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.5}
+627.0568876165196 %;{'roic_wacc': 0.1, 'revenue_growth': 0.9}
+322.11526258826774 %;{'roic_wacc': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+294.0847918879077 %;{'roe': 0.2, 'fcfy': 0.2, 'dividend_yield': 0.6}
+300.5135773870795 %;{'roe': 0.2, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.2}
+259.5357081511595 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.4}
+277.9479040736489 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+351.3583316784781 %;{'roe': 0.2, 'fcfy': 0.1, 'roic_wacc': 0.3, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+265.8256862833334 %;{'roic_wacc': 0.4, 'revenue_growth': 0.2, 'dividend_yield': 0.4}
+363.5206763770135 %;{'roe': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.1}
+292.57184734465244 %;{'roe': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+716.8689818039109 %;{'fcfy': 0.2, 'revenue_growth': 0.8}
+334.7072080254913 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+286.5510464637317 %;{'roe': 0.1, 'fcfy': 0.2, 'roic_wacc': 0.2, 'revenue_growth': 0.3, 'dividend_yield': 0.2}
+236.72643204871457 %;{'revenue_growth': 0.2, 'dividend_yield': 0.8}
+478.22800902184485 %;{'fcfy': 0.2, 'revenue_growth': 0.6, 'dividend_yield': 0.2}
+298.7298452796003 %;{'fcfy': 0.3, 'roic_wacc': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+253.81192964428928 %;{'roe': 0.5, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+238.15860720734864 %;{'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.5}
+276.15551629863535 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+319.5925991273002 %;{'roe': 0.7, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+337.61355833853554 %;{'roe': 0.2, 'fcfy': 0.7, 'revenue_growth': 0.1}
+248.8670256797564 %;{'roe': 0.2, 'fcfy': 0.5, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+331.2993382554959 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.7, 'dividend_yield': 0.1}
+516.1770473733937 %;{'roe': 0.1, 'fcfy': 0.1, 'revenue_growth': 0.7, 'dividend_yield': 0.1}
+257.8000833923596 %;{'roe': 0.3, 'fcfy': 0.4, 'roic_wacc': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+355.92217408160167 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.4}
+286.3429521364693 %;{'roe': 0.2, 'fcfy': 0.3, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+289.1751898758656 %;{'roe': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.3}
+217.42280241890688 %;{'roe': 0.2, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+244.77317678609572 %;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.2}
+258.5420307725466 %;{'roe': 0.4, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.1}
+388.3816265797514 %;{'roe': 0.4, 'fcfy': 0.3, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+300.2564212903067 %;{'roe': 0.3, 'fcfy': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+229.91386802483476 %;{'roe': 0.3, 'roic_wacc': 0.5, 'revenue_growth': 0.1, 'dividend_yield': 0.1}
+262.22224430845836 %;{'roe': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+328.71557651409023 %;{'fcfy': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+261.6772443739761 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.6}
+544.177224315203 %;{'roe': 0.1, 'fcfy': 0.3, 'revenue_growth': 0.6}
+295.4176767775582 %;{'roe': 0.3, 'fcfy': 0.3, 'revenue_growth': 0.1, 'dividend_yield': 0.3}
+354.9423633461114 %;{'fcfy': 0.6, 'dividend_yield': 0.4}
+325.0551365451775 %;{'roe': 0.2, 'fcfy': 0.6, 'dividend_yield': 0.2}
+227.9082190905342 %;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.3}
+225.7556583149317 %;{'roe': 0.8, 'roic_wacc': 0.2}
+268.3199703287947 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.4, 'dividend_yield': 0.1}
+485.8425749011092 %;{'roe': 0.1, 'fcfy': 0.4, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+276.10394312162015 %;{'roe': 0.5, 'roic_wacc': 0.2, 'revenue_growth': 0.3}
+383.4890207618044 %;{'roe': 0.1, 'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.4}
+353.6633648942727 %;{'roe': 0.3, 'fcfy': 0.6, 'revenue_growth': 0.1}
+285.52303382116577 %;{'roe': 0.3, 'fcfy': 0.2, 'roic_wacc': 0.1, 'revenue_growth': 0.3, 'dividend_yield': 0.1}
+366.36538753363226 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.2, 'revenue_growth': 0.6}
+291.4958757988746 %;{'roe': 0.6, 'roic_wacc': 0.1, 'revenue_growth': 0.2, 'dividend_yield': 0.1}
+231.4371658176234 %;{'fcfy': 0.1, 'roic_wacc': 0.1, 'revenue_growth': 0.4, 'dividend_yield': 0.4}
+237.40690104364361 %;{'fcfy': 0.1, 'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+238.320254436004 %;{'roe': 0.3, 'fcfy': 0.5, 'roic_wacc': 0.1, 'dividend_yield': 0.1}
+292.0597093756494 %;{'roe': 0.3, 'roic_wacc': 0.1, 'revenue_growth': 0.5, 'dividend_yield': 0.1}
+264.7465806760729 %;{'roe': 0.4, 'fcfy': 0.1, 'roic_wacc': 0.1, 'dividend_yield': 0.4}
+341.0526661197445 %;{'roe': 0.4, 'fcfy': 0.1, 'revenue_growth': 0.1, 'dividend_yield': 0.4}
+330.99978946940604 %;{'roe': 0.1, 'fcfy': 0.1, 'roic_wacc': 0.6, 'revenue_growth': 0.2}
+445.9702431930009 %;{'fcfy': 0.3, 'roic_wacc': 0.2, 'revenue_growth': 0.4, 'dividend_yield': 0.1}
+270.75603386619537 %;{'roe': 0.5, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+295.2680986504963 %;{'fcfy': 0.5, 'roic_wacc': 0.4, 'revenue_growth': 0.1}
+223.8767698522023 %;{'roic_wacc': 0.4, 'revenue_growth': 0.1, 'dividend_yield': 0.5}
+482.7686813879967 %;{'fcfy': 0.1, 'revenue_growth': 0.6, 'dividend_yield': 0.3}
+283.7189995048348 %;{'roic_wacc': 0.9, 'revenue_growth': 0.1}
+257.45836944882547 %;{'roe': 0.3, 'roic_wacc': 0.4, 'dividend_yield': 0.3}
+304.19971069971854 %;{'roe': 0.3, 'fcfy': 0.1, 'roic_wacc': 0.6}
+373.1838465180437 %;{'roe': 0.1, 'fcfy': 0.8, 'revenue_growth': 0.1}
